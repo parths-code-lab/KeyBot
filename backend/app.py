@@ -63,7 +63,7 @@ def import_values():
     params = {
         "engine" : "google_trends_trending_now",
         "geo" : "IN",
-        "api_key" : "SERPAPI_KEY"
+        "api_key" : api_key
     }
 
     # store it into data variable
@@ -174,7 +174,7 @@ def trending(q: str):
         "geo": "IN",
         "q": q,
         "data_type": "RELATED_QUERIES",
-        "api_key": "SERPAPI_KEY"
+        "api_key": api_key
     }
 
     data_json = GoogleSearch(params).get_dict()
