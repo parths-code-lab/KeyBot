@@ -8,7 +8,12 @@ import re
 from fake_useragent import UserAgent as ua
 from pydantic import BaseModel
 import base64
+import os
 
+if __name__ == "__main__":
+    import uvicorn
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run("app:app", host="0.0.0.0", port=port)
 app = FastAPI()
 
 app.add_middleware(
