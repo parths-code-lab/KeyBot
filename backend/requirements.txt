@@ -1,0 +1,6 @@
+fastapi
+serpapi
+requests
+beautifulsoup4
+fake-useragent
+pydantic
