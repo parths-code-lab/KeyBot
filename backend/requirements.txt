@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+google-search-results ✅
 serpapi
 requests
 beautifulsoup4
