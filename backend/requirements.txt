@@ -1,8 +1,8 @@
 fastapi
 uvicorn
 google-search-results
-serpapi
 requests
 beautifulsoup4
 fake-useragent
 pydantic
+python-multipart

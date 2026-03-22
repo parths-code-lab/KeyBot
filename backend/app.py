@@ -10,6 +10,8 @@ from pydantic import BaseModel
 import base64
 import os
 
+api_key = os.getenv("SERPAPI_KEY")
+
 if __name__ == "__main__":
     import uvicorn
     port = int(os.environ.get("PORT", 8000))
@@ -61,7 +63,7 @@ def import_values():
     params = {
         "engine" : "google_trends_trending_now",
         "geo" : "IN",
-        "api_key" : "dd467aaec88f7c2fab01addbccce227abe15d4ef188780e401e4109151f6064b"
+        "api_key" : "SERPAPI_KEY"
     }
 
     # store it into data variable
@@ -172,7 +174,7 @@ def trending(q: str):
         "geo": "IN",
         "q": q,
         "data_type": "RELATED_QUERIES",
-        "api_key": "dd467aaec88f7c2fab01addbccce227abe15d4ef188780e401e4109151f6064b"
+        "api_key": "SERPAPI_KEY"
     }
 
     data_json = GoogleSearch(params).get_dict()
