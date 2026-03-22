@@ -1,0 +1,391 @@
+{
+  "search_metadata": {
+    "id": "69651bcdbadf0b9c9ce07bfd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2e914722a638caa6/69651bcdbadf0b9c9ce07bfd.json",
+    "created_at": "2026-01-12 16:05:33 UTC",
+    "processed_at": "2026-01-12 16:05:33 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_TOPICS?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Messi%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/2e914722a638caa6/69651bcdbadf0b9c9ce07bfd.html",
+    "prettify_html_file": "https://serpapi.com/searches/2e914722a638caa6/69651bcdbadf0b9c9ce07bfd.prettify",
+    "total_time_taken": 28.58
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Messi",
+    "hl": "en",
+    "geo": "IN",
+    "date": "today 12-m",
+    "tz": "420",
+    "data_type": "RELATED_TOPICS"
+  },
+  "related_topics": {
+    "rising": [
+      {
+        "topic": {
+          "value": "/g/11y1ysmn0x",
+          "title": "Revanth Reddy",
+          "type": "Chief Minister of Telangana"
+        },
+        "value": "+4,550%",
+        "extracted_value": 4550,
+        "link": "https://trends.google.com/trends/explore?q=/g/11y1ysmn0x&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fg%2F11y1ysmn0x&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/g/120hz5lv",
+          "title": "Team jersey",
+          "type": "Topic"
+        },
+        "value": "+4,050%",
+        "extracted_value": 4050,
+        "link": "https://trends.google.com/trends/explore?q=/g/120hz5lv&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fg%2F120hz5lv&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/02sb4j",
+          "title": "Sweater",
+          "type": "Clothing"
+        },
+        "value": "+2,700%",
+        "extracted_value": 2700,
+        "link": "https://trends.google.com/trends/explore?q=/m/02sb4j&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F02sb4j&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/013_1c",
+          "title": "Statue",
+          "type": "Visual art form"
+        },
+        "value": "+1,450%",
+        "extracted_value": 1450,
+        "link": "https://trends.google.com/trends/explore?q=/m/013_1c&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F013_1c&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/0ztkjrd",
+          "title": "Rodrigo De Paul",
+          "type": "Argentine soccer player"
+        },
+        "value": "+400%",
+        "extracted_value": 400,
+        "link": "https://trends.google.com/trends/explore?q=/m/0ztkjrd&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F0ztkjrd&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/0w_921m",
+          "title": "Raphaël Messi Bouli",
+          "type": "Cameroonian soccer player"
+        },
+        "value": "+300%",
+        "extracted_value": 300,
+        "link": "https://trends.google.com/trends/explore?q=/m/0w_921m&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F0w_921m&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/04l_8w",
+          "title": "FIFA Club World Cup",
+          "type": "Soccer competition"
+        },
+        "value": "+300%",
+        "extracted_value": 300,
+        "link": "https://trends.google.com/trends/explore?q=/m/04l_8w&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F04l_8w&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/019cfy",
+          "title": "Stadium",
+          "type": "Building function"
+        },
+        "value": "+250%",
+        "extracted_value": 250,
+        "link": "https://trends.google.com/trends/explore?q=/m/019cfy&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F019cfy&tz=420"
+      }
+    ],
+    "top": [
+      {
+        "topic": {
+          "value": "/m/06qjgc",
+          "title": "Lionel Messi",
+          "type": "Argentine soccer player"
+        },
+        "value": "100",
+        "extracted_value": 100,
+        "link": "https://trends.google.com/trends/explore?q=/m/06qjgc&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F06qjgc&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/02xt6q",
+          "title": "Cristiano Ronaldo",
+          "type": "Portuguese soccer player"
+        },
+        "value": "19",
+        "extracted_value": 19,
+        "link": "https://trends.google.com/trends/explore?q=/m/02xt6q&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F02xt6q&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/023t5p",
+          "title": "Goal",
+          "type": "Sports"
+        },
+        "value": "6",
+        "extracted_value": 6,
+        "link": "https://trends.google.com/trends/explore?q=/m/023t5p&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F023t5p&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/02vx4",
+          "title": "Soccer",
+          "type": "Sports"
+        },
+        "value": "6",
+        "extracted_value": 6,
+        "link": "https://trends.google.com/trends/explore?q=/m/02vx4&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F02vx4&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/0hvgt",
+          "title": "FC Barcelona",
+          "type": "Soccer club"
+        },
+        "value": "4",
+        "extracted_value": 4,
+        "link": "https://trends.google.com/trends/explore?q=/m/0hvgt&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F0hvgt&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/030q7",
+          "title": "FIFA World Cup",
+          "type": "Soccer competition"
+        },
+        "value": "3",
+        "extracted_value": 3,
+        "link": "https://trends.google.com/trends/explore?q=/m/030q7&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F030q7&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/03m5111",
+          "title": "Neymar",
+          "type": "Brazilian soccer player"
+        },
+        "value": "3",
+        "extracted_value": 3,
+        "link": "https://trends.google.com/trends/explore?q=/m/03m5111&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F03m5111&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/0_ll3j7",
+          "title": "Inter Miami CF",
+          "type": "Soccer club"
+        },
+        "value": "3",
+        "extracted_value": 3,
+        "link": "https://trends.google.com/trends/explore?q=/m/0_ll3j7&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F0_ll3j7&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/024fjv",
+          "title": "Net worth",
+          "type": "Topic"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/024fjv&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F024fjv&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/01jtb2",
+          "title": "Height",
+          "type": "Topic"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/01jtb2&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F01jtb2&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/011l78",
+          "title": "Team",
+          "type": "Topic"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/011l78&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F011l78&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/0gl2ny2",
+          "title": "Soccer player",
+          "type": "Career"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/0gl2ny2&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F0gl2ny2&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/032vgc",
+          "title": "Sports league",
+          "type": "Topic"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/032vgc&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F032vgc&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/02h00q",
+          "title": "Jersey",
+          "type": "Apparel"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/02h00q&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F02h00q&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/02bh_v",
+          "title": "Argentina national football team",
+          "type": "Soccer team"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/02bh_v&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F02bh_v&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/06l22",
+          "title": "Real Madrid CF",
+          "type": "Soccer club"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/06l22&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F06l22&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/06mnr",
+          "title": "Statistics",
+          "type": "Discipline"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/06mnr&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F06mnr&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/02x94h",
+          "title": "Trophy",
+          "type": "Topic"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/02x94h&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F02x94h&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/03qkvyf",
+          "title": "Virat Kohli",
+          "type": "Indian cricketer"
+        },
+        "value": "2",
+        "extracted_value": 2,
+        "link": "https://trends.google.com/trends/explore?q=/m/03qkvyf&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F03qkvyf&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/0c1q0",
+          "title": "UEFA Champions League",
+          "type": "Soccer competition"
+        },
+        "value": "1",
+        "extracted_value": 1,
+        "link": "https://trends.google.com/trends/explore?q=/m/0c1q0&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F0c1q0&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/019cfy",
+          "title": "Stadium",
+          "type": "Building function"
+        },
+        "value": "1",
+        "extracted_value": 1,
+        "link": "https://trends.google.com/trends/explore?q=/m/019cfy&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F019cfy&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/013_1c",
+          "title": "Statue",
+          "type": "Visual art form"
+        },
+        "value": "1",
+        "extracted_value": 1,
+        "link": "https://trends.google.com/trends/explore?q=/m/013_1c&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F013_1c&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/g/11y1ysmn0x",
+          "title": "Revanth Reddy",
+          "type": "Chief Minister of Telangana"
+        },
+        "value": "<1",
+        "extracted_value": 0,
+        "link": "https://trends.google.com/trends/explore?q=/g/11y1ysmn0x&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fg%2F11y1ysmn0x&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/04l_8w",
+          "title": "FIFA Club World Cup",
+          "type": "Soccer competition"
+        },
+        "value": "<1",
+        "extracted_value": 0,
+        "link": "https://trends.google.com/trends/explore?q=/m/04l_8w&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F04l_8w&tz=420"
+      },
+      {
+        "topic": {
+          "value": "/m/02sb4j",
+          "title": "Sweater",
+          "type": "Clothing"
+        },
+        "value": "<1",
+        "extracted_value": 0,
+        "link": "https://trends.google.com/trends/explore?q=/m/02sb4j&date=today+12-m&geo=IN",
+        "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_TOPICS&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=%2Fm%2F02sb4j&tz=420"
+      }
+    ]
+  }
+}

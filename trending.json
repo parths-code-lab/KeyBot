@@ -1,0 +1,4370 @@
+{
+  "search_metadata": {
+    "id": "69bfe54b4707f1bb79e207bf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/DYmIsrZ9saWW5vYLU6gZqA/69bfe54b4707f1bb79e207bf.json",
+    "created_at": "2026-03-22 12:49:15 UTC",
+    "processed_at": "2026-03-22 12:49:15 UTC",
+    "google_trends_trending_now_url": "https://trends.google.com/_/TrendsUi/data/batchexecute?rpcids=i0OFE&source-path=%2Ftrending&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/DYmIsrZ9saWW5vYLU6gZqA/69bfe54b4707f1bb79e207bf.html",
+    "prettify_html_file": "https://serpapi.com/searches/DYmIsrZ9saWW5vYLU6gZqA/69bfe54b4707f1bb79e207bf.prettify",
+    "total_time_taken": 0.91
+  },
+  "search_parameters": {
+    "engine": "google_trends_trending_now",
+    "hl": "en",
+    "geo": "IN"
+  },
+  "trending_searches": [
+    {
+      "query": "south africa vs new zealand",
+      "start_timestamp": 1774159200,
+      "active": true,
+      "search_volume": 1000000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "prenelan subrayen",
+        "sa vs nz",
+        "south africa national cricket team vs new zealand national cricket team match scorecard",
+        "connor esterhuizen",
+        "new zealand vs south africa cricket",
+        "south africa new zealand cricket",
+        "new zealand cricket",
+        "nz vs sa",
+        "tony de zorzi",
+        "bevon jacobs",
+        "sa vs nz live"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=south+africa+vs+new+zealand&tz=420",
+      "news_page_token": "-CDqhnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRq6HKr8XpeYt8vSD8kOeBSDzuXvTLqPICy2bj8znMVlhgCL_RKodRd78VQQK37SMB0X9VfV8FPv4D5qjyEPdFxqMxM_LQTL_iicKXzGtGlN_MZAPAO6AWsQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=-CDqhnica1xTlFpYmlpcEp-SWJI4f_J5BgYGRq6HKr8XpeYt8vSD8kOeBSDzuXvTLqPICy2bj8znMVlhgCL_RKodRd78VQQK37SMB0X9VfV8FPv4D5qjyEPdFxqMxM_LQTL_iicKXzGtGlN_MZAPAO6AWsQ"
+    },
+    {
+      "query": "kerala blasters vs punjab fc",
+      "start_timestamp": 1774098600,
+      "active": true,
+      "search_volume": 100000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "kbfc",
+        "kerala blasters vs punjab fc live",
+        "samir zeljković",
+        "kbfc vs punjab",
+        "kerala blasters fc",
+        "kerala blasters vs punjab fc live score",
+        "punjab fc"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=kerala+blasters+vs+punjab+fc&tz=420",
+      "news_page_token": "E0We43ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu7zKzMXpeYt8vSD8hlvb0DhJ7TOQOFL3nuFzOfIPsSAIh-il4XM52GeoAjhAwDdoi0h",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=E0We43ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu7zKzMXpeYt8vSD8hlvb0DhJ7TOQOFL3nuFzOfIPsSAIh-il4XM52GeoAjhAwDdoi0h"
+    },
+    {
+      "query": "everton vs chelsea",
+      "start_timestamp": 1774110600,
+      "active": true,
+      "search_volume": 100000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "beto",
+        "everton",
+        "chelsea vs everton",
+        "where to watch everton f.c. vs chelsea f.c.",
+        "chelsea f.c."
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=everton+vs+chelsea&tz=420",
+      "news_page_token": "pG02h3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRu5N7z0XpeYt8vSD8Ll2TRVC5nPXbGtE4QtkfUDh96u1ovAnq89A4X-ON0Tm85jqX0DmsyusWo5if86WBSjq9ULkUPhar8-imF98jxvCBwA_kU7w",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=pG02h3ica1xTlFpYmlpcEp-SWJI4d_J5BgYGRu5N7z0XpeYt8vSD8Ll2TRVC5nPXbGtE4QtkfUDh96u1ovAnq89A4X-ON0Tm85jqX0DmsyusWo5if86WBSjq9ULkUPhar8-imF98jxvCBwA_kU7w"
+    },
+    {
+      "query": "barcelona vs rayo vallecano",
+      "start_timestamp": 1774174800,
+      "active": true,
+      "search_volume": 20000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=barcelona+vs+rayo+vallecano&tz=420",
+      "news_page_token": "_5v11Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu48ZbtFqcWLPP2gfCaODch8rvvZ3yF8AOYeFu8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_5v11Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu48ZbtFqcWLPP2gfCaODch8rvvZ3yF8AOYeFu8"
+    },
+    {
+      "query": "bayern vs union berlin",
+      "start_timestamp": 1774099800,
+      "active": true,
+      "search_volume": 50000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "1. fc union berlin"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=bayern+vs+union+berlin&tz=420",
+      "news_page_token": "QsIWfnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu69buWLUlIXefpB-Dxqp5KR-dyHXuWj8F8esEfhs9Y6ovC_OEDVAwAXGChp",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=QsIWfnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu69buWLUlIXefpB-Dxqp5KR-dyHXuWj8F8esEfhs9Y6ovC_OEDVAwAXGChp"
+    },
+    {
+      "query": "csk",
+      "start_timestamp": 1774167000,
+      "active": true,
+      "search_volume": 50000,
+      "increase_percentage": 400,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        },
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "csk roar event live streaming",
+        "roar 26 live stream",
+        "csk roar event",
+        "chennai super kings",
+        "roar 26",
+        "csk vs csk march 22",
+        "csk live",
+        "csk vs csk",
+        "csk app",
+        "csk live event",
+        "csk roar",
+        "csk match today",
+        "csk match",
+        "csk vs csk march 22 live streaming",
+        "roar 26 live",
+        "csk roar live",
+        "csk match 22 march live streaming"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=csk&tz=420",
+      "news_page_token": "QQo70nica1xTlFpYmlpcEp-SWJI4f_J5BgYGRu4Uqz2LUvMWefpB-a8r1ZH5PBqzglDkU-7VIfO55vHPRZFfvGsJin5uz0QU-SvHElDkjb63ofAtOuahmD-LJw1VPuIFinlTjDehyEst70Lhy3p_g_ABlPpZ3g",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=QQo70nica1xTlFpYmlpcEp-SWJI4f_J5BgYGRu4Uqz2LUvMWefpB-a8r1ZH5PBqzglDkU-7VIfO55vHPRZFfvGsJin5uz0QU-SvHElDkjb63ofAtOuahmD-LJw1VPuIFinlTjDehyEst70Lhy3p_g_ABlPpZ3g"
+    },
+    {
+      "query": "nice vs psg",
+      "start_timestamp": 1774120200,
+      "active": true,
+      "search_volume": 50000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "ligue 1"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=nice+vs+psg&tz=420",
+      "news_page_token": "Mka--Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRu7WxLmL0ooWefpB-alFvSj8gv9hyHweQcOTKHzzalT1JzeuReFPiDuHwj-lNhlFv9mqVSjymjeZUOQl5mujyK-QmQXhAwCQd0mG",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Mka--Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRu7WxLmL0ooWefpB-alFvSj8gv9hyHweQcOTKHzzalT1JzeuReFPiDuHwj-lNhlFv9mqVSjymjeZUOQl5mujyK-QmQXhAwCQd0mG"
+    },
+    {
+      "query": "newcastle vs sunderland",
+      "start_timestamp": 1774177800,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "premier league games"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=newcastle+vs+sunderland&tz=420",
+      "news_page_token": "1J3OkXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu5sdr5FqXmLPP2g_E3vPVH4742zkPk8qkevoMgX1uWj8JtPWqGoV7uehyJffI8bwgcAjl8zCQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=1J3OkXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu5sdr5FqXmLPP2g_E3vPVH4742zkPk8qkevoMgX1uWj8JtPWqGoV7uehyJffI8bwgcAjl8zCQ"
+    },
+    {
+      "query": "chennaiyin vs goa",
+      "start_timestamp": 1774176000,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "where to watch chennaiyin fc vs fc goa",
+        "daniel chima chukwu",
+        "chennaiyin fc"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=chennaiyin+vs+goa&tz=420",
+      "news_page_token": "u4XSy3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm7G2xsWpeYt8vQDAM95DGk",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=u4XSy3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm7G2xsWpeYt8vQDAM95DGk"
+    },
+    {
+      "query": "milan vs torino",
+      "start_timestamp": 1774109400,
+      "active": true,
+      "search_volume": 20000,
+      "increase_percentage": 800,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=milan+vs+torino&tz=420",
+      "news_page_token": "J5rdBXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu5cIelFqXmLPP0gfB6dV3MhfACtyBFI",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=J5rdBXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu5cIelFqXmLPP0gfB6dV3MhfACtyBFI"
+    },
+    {
+      "query": "katene clarke",
+      "start_timestamp": 1774158600,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=katene+clarke&tz=420",
+      "news_page_token": "2fKyQHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh7pfbcXpeYtCg0GANDPDKM",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2fKyQHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh7pfbcXpeYtCg0GANDPDKM"
+    },
+    {
+      "query": "robert mueller",
+      "start_timestamp": 1774114800,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 800,
+      "categories": [
+        {
+          "id": 10,
+          "name": "Law and Government"
+        },
+        {
+          "id": 14,
+          "name": "Politics"
+        }
+      ],
+      "trend_breakdown": [
+        "robert muller"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=robert+mueller&tz=420",
+      "news_page_token": "mlNbKnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh5NF_tFqXmLPP0mn_uaL_sUygbKGTDcjeLNQ-Y_TD1pBuEDAIkjHnk",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=mlNbKnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh5NF_tFqXmLPP0mn_uaL_sUygbKGTDcjeLNQ-Y_TD1pBuEDAIkjHnk"
+    },
+    {
+      "query": "mamta kulkarni",
+      "start_timestamp": 1774107000,
+      "active": true,
+      "search_volume": 20000,
+      "increase_percentage": 900,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "mamta"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=mamta+kulkarni&tz=420",
+      "news_page_token": "DIh9l3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm7duTyLUvMWefpB-c9rVqHw39Y2I_N5BHb4osi_VNkC4QMArEQi-A",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=DIh9l3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm7duTyLUvMWefpB-c9rVqHw39Y2I_N5BHb4osi_VNkC4QMArEQi-A"
+    },
+    {
+      "query": "दक्षिण अफ्रीका बनाम न्यूजीलैंड",
+      "start_timestamp": 1774159800,
+      "active": true,
+      "search_volume": 20000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "दक्षिण अफ़्रीका महिलाएं बनाम न्यूजीलैंड महिला",
+        "laura wolvaardt",
+        "sa बनाम nz"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%A6%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A3+%E0%A4%85%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A4%BE+%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE+%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9C%E0%A5%80%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1&tz=420",
+      "news_page_token": "5vRswXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRq4nUu2LMjIXefpB-BwT__1E5vNwbp2PzAerT81DyJts74XIAwDmkyOt",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=5vRswXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRq4nUu2LMjIXefpB-BwT__1E5vNwbp2PzAerT81DyJts74XIAwDmkyOt"
+    },
+    {
+      "query": "bihar diwas",
+      "start_timestamp": 1774118400,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "categories": [
+        {
+          "id": 8,
+          "name": "Hobbies and Leisure"
+        }
+      ],
+      "trend_breakdown": [
+        "bihar diwas 2026",
+        "बिहार दिवस",
+        "bihar"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=bihar+diwas&tz=420",
+      "news_page_token": "sFo7Snica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG7sZlMxal5i3y9IPwuR4-nIfM5zFPvI0iX3XqPzKfO8S6B0X-sj-KPI_Fwn0ofFMvdxS-5g91VPt-uaGYD3JfRiaqPDKf9WMdCt9EqheFb-rlg8I3enMPzT0-KHyQfjAfAClgazQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=sFo7Snica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG7sZlMxal5i3y9IPwuR4-nIfM5zFPvI0iX3XqPzKfO8S6B0X-sj-KPI_Fwn0ofFMvdxS-5g91VPt-uaGYD3JfRiaqPDKf9WMdCt9EqheFb-rlg8I3enMPzT0-KHyQfjAfAClgazQ"
+    },
+    {
+      "query": "triumph 350cc bikes",
+      "start_timestamp": 1774110000,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 500,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Autos and Vehicles"
+        }
+      ],
+      "trend_breakdown": [
+        "triumph 350cc",
+        "triumph 350 india launch"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=triumph+350cc+bikes&tz=420",
+      "news_page_token": "6DU5hXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu5Vm3cvSs1b5OkH4fMofbBH4cu-YkHhqz-rReZz_zY5jsLXjw2E8AEiUihC",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6DU5hXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu5Vm3cvSs1b5OkH4fMofbBH4cu-YkHhqz-rReZz_zY5jsLXjw2E8AEiUihC"
+    },
+    {
+      "query": "abdul basit",
+      "start_timestamp": 1774178400,
+      "active": true,
+      "search_volume": 2000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 10,
+          "name": "Law and Government"
+        },
+        {
+          "id": 14,
+          "name": "Politics"
+        }
+      ],
+      "trend_breakdown": [
+        "abdul basit high commissioner"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=abdul+basit&tz=420",
+      "news_page_token": "v6sZynica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh61yPhFqXmLPP0AyokLvA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=v6sZynica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh61yPhFqXmLPP0AyokLvA"
+    },
+    {
+      "query": "मानसून",
+      "start_timestamp": 1774099800,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "categories": [
+        {
+          "id": 20,
+          "name": "Climate"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A5%82%E0%A4%A8&tz=420",
+      "news_page_token": "VgrlJXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRi7fe32LMjIXefpB-SclLiLzufMDq5D5PIxd0ijqewPXovCVtJVQ9M_euwrCBwCNeyzB",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=VgrlJXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRi7fe32LMjIXefpB-SclLiLzufMDq5D5PIxd0ijqewPXovCVtJVQ9M_euwrCBwCNeyzB"
+    },
+    {
+      "query": "como vs pisa",
+      "start_timestamp": 1774176000,
+      "active": true,
+      "search_volume": 2000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=como+vs+pisa&tz=420",
+      "news_page_token": "-5Xq4Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu6bElcXpRYv8vQDANIQDKg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=-5Xq4Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu6bElcXpRYv8vQDANIQDKg"
+    },
+    {
+      "query": "juventus vs sassuolo",
+      "start_timestamp": 1774119000,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 500,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=juventus+vs+sassuolo&tz=420",
+      "news_page_token": "8_CuC3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm7VlheLUvMWefpB-bvL70P4AMcOEpw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=8_CuC3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm7VlheLUvMWefpB-bvL70P4AMcOEpw"
+    },
+    {
+      "query": "dhurandhar 2 box office collection day 4",
+      "start_timestamp": 1774145400,
+      "active": true,
+      "search_volume": 20000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "dhurandhar 2 collection total worldwide",
+        "dhurandhar 2 collection day 4",
+        "dhurandhar 1 ott",
+        "dhurandhar the revenge ott release date",
+        "dangal",
+        "war 2",
+        "dhurandhar movie hindi",
+        "uri movie",
+        "mahesh babu",
+        "dhurandhar 2 box office collection worldwide",
+        "dhurandhar 2 day 4 collection sacnilk",
+        "movie dhurandhar",
+        "ranveer singh dhurandhar box office",
+        "atiq ahmed death",
+        "durandar 2 movie",
+        "lyari town",
+        "jyoti deshpande",
+        "dhurandhar box office collection worldwide",
+        "dhurandhar 2 songs",
+        "saiyaara movie",
+        "dhurandhar 2 collection sacnilk",
+        "hindi movie",
+        "dhurandhar 2 box office",
+        "r madhavan",
+        "dhurandhar part 2",
+        "dhurandhar 2 box office collection sacnilk",
+        "bollywood box office collection",
+        "dhurandhar 2 day 3 collection",
+        "dhurandhar 2 collection day 3"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=dhurandhar+2+box+office+collection+day+4&tz=420",
+      "news_page_token": "OMTUgnica1xTlFpYmlpcEp-SWJJ4h0F78nkGBgZG7qabbxal5i3y9IPweTTZ_VD4-nNmIvO5TyaeQJVvdkThc2y5gcznvHFjEYp-f65-FPVGoutQ5M_WzUGRZ_TKQJFf8u09Cr9931cUPtQ_ocFQ_SZbvFDcsyZDA8V82Xv7Ufi6k1tR-Ax_5FH4Zqd3oPCldlij2P-w4S4KX0N5Kgr_1LcoZD7X-4MBKOapmb9D4Stcv4yi36K0EoXf91MURT3ztXAUvko7anya64ig8JWnKKKY57VmPoo8a9YWbOEDC1_uXZlvUeSV0kJQzEu52YLqnnW5KHyTLbEofLmY_yj6l2sdgfAB1Av2pg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=OMTUgnica1xTlFpYmlpcEp-SWJJ4h0F78nkGBgZG7qabbxal5i3y9IPweTTZ_VD4-nNmIvO5TyaeQJVvdkThc2y5gcznvHFjEYp-f65-FPVGoutQ5M_WzUGRZ_TKQJFf8u09Cr9931cUPtQ_ocFQ_SZbvFDcsyZDA8V82Xv7Ufi6k1tR-Ax_5FH4Zqd3oPCldlij2P-w4S4KX0N5Kgr_1LcoZD7X-4MBKOapmb9D4Stcv4yi36K0EoXf91MURT3ztXAUvko7anya64ig8JWnKKKY57VmPoo8a9YWbOEDC1_uXZlvUeSV0kJQzEu52YLqnnW5KHyTLbEofLmY_yj6l2sdgfAB1Av2pg"
+    },
+    {
+      "query": "sm47",
+      "start_timestamp": 1774173600,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 500,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Games"
+        }
+      ],
+      "trend_breakdown": [
+        "sm47 lottery result",
+        "kerala lottery result today live",
+        "kerala result",
+        "kerala jackpot result",
+        "today lottery result",
+        "kerala lottery results karunya",
+        "lottery result",
+        "kerala lottery result chart",
+        "kerala lottery today result",
+        "kerala lottery results",
+        "lottery live",
+        "lottery",
+        "lottery sambad live"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sm47&tz=420",
+      "news_page_token": "v7J3a3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRu6HyfaLUvMWefpB-DyyjBHIfG62DSXIfLbNu-xQ1Ct2xqGo1zf7icznYn54CkW9jtRGFL7uTnEUvuBbGRS-kcBXZD7Hy5YuCB8ALelHNw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=v7J3a3ica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRu6HyfaLUvMWefpB-DyyjBHIfG62DSXIfLbNu-xQ1Ct2xqGo1zf7icznYn54CkW9jtRGFL7uTnEUvuBbGRS-kcBXZD7Hy5YuCB8ALelHNw"
+    },
+    {
+      "query": "silver gold rates",
+      "start_timestamp": 1774165800,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "trend_breakdown": [
+        "silver gold prices",
+        "silver price today delhi",
+        "22k gold price today",
+        "gold price today kolkata",
+        "gold rate today patna",
+        "today gold rate in bangalore",
+        "gold and silver rate today"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=silver+gold+rates&tz=420",
+      "news_page_token": "wIvq1Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu6HyfMXpeYt8vSD8Hn4zk5H5nOfn1eHzGfXnY8qf_HpLxT90r3iKPJQ80ODYeZ9_Ikif7TgAIQPAOGvPHc",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=wIvq1Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu6HyfMXpeYt8vSD8Hn4zk5H5nOfn1eHzGfXnY8qf_HpLxT90r3iKPJQ80ODYeZ9_Ikif7TgAIQPAOGvPHc"
+    },
+    {
+      "query": "dimona",
+      "start_timestamp": 1774114200,
+      "active": true,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "trend_breakdown": [
+        "iran war missiles"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=dimona&tz=420",
+      "news_page_token": "ihew8Xica1xTlFpYmlpcEp-SWJI4a_J5BgYGRq5nm28vSs1b5OkH4XNzCZug8Pc1cqLw98voIfO5HvDmofD_tKKYx6MX54iiv072GAr_sVEVinqt254QPgChcD25",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=ihew8Xica1xTlFpYmlpcEp-SWJI4a_J5BgYGRq5nm28vSs1b5OkH4XNzCZug8Pc1cqLw98voIfO5HvDmofD_tKKYx6MX54iiv072GAr_sVEVinqt254QPgChcD25"
+    },
+    {
+      "query": "israel iran",
+      "start_timestamp": 1774165800,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "categories": [
+        {
+          "id": 14,
+          "name": "Politics"
+        },
+        {
+          "id": 10,
+          "name": "Law and Government"
+        }
+      ],
+      "trend_breakdown": [
+        "iran israel",
+        "iranian",
+        "iran war diego garcia",
+        "obliterate",
+        "iran us war",
+        "iran war update"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=israel+iran&tz=420",
+      "news_page_token": "fPOc4Hica1xTlFpYmlpcEp-SWJJ4h0Fx8nkGBgZGbi5hk0WpeYs8_aD8fY2cyHyuP623UeQfG1Wh8LPf3ULm8xiE3Efh68U5oqj_9ucvirzuxwgUvtkbPhT1N-9loMgrb2RGkb--9yyqfbGXUNz_bDOq-1fllaGol-c3ReFbSNxBUQ8Nn9Bg1PCA8XmML4Qh8zlfX_yOzOeukz2G4p4FKYko5qstQA0_ZuYOFL50rziK-v0yeijy-rYo4cvDVnsFhW_6IBuFrzhzNTKf47DldggfAHybvuU",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=fPOc4Hica1xTlFpYmlpcEp-SWJJ4h0Fx8nkGBgZGbi5hk0WpeYs8_aD8fY2cyHyuP623UeQfG1Wh8LPf3ULm8xiE3Efh68U5oqj_9ucvirzuxwgUvtkbPhT1N-9loMgrb2RGkb--9yyqfbGXUNz_bDOq-1fllaGol-c3ReFbSNxBUQ8Nn9Bg1PCA8XmML4Qh8zlfX_yOzOeukz2G4p4FKYko5qstQA0_ZuYOFL50rziK-v0yeijy-rYo4cvDVnsFhW_6IBuFrzhzNTKf47DldggfAHybvuU"
+    },
+    {
+      "query": "gukesh chess",
+      "start_timestamp": 1774123200,
+      "active": true,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Games"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=gukesh+chess&tz=420",
+      "news_page_token": "2hA6OXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5X58QXpeYt8vQDANMTDKw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2hA6OXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5X58QXpeYt8vQDANMTDKw"
+    },
+    {
+      "query": "brendon mccullum",
+      "start_timestamp": 1774117200,
+      "active": true,
+      "search_volume": 5000,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=brendon+mccullum&tz=420",
+      "news_page_token": "Avryd3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh6urvuLUvMWefpB-NyLqx4i83mE3VpR5CftMkHmc_ZulIHwAbBsIno",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Avryd3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh6urvuLUvMWefpB-NyLqx4i83mE3VpR5CftMkHmc_ZulIHwAbBsIno"
+    },
+    {
+      "query": "the 50 show winner",
+      "start_timestamp": 1774110600,
+      "active": true,
+      "search_volume": 10000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "the 50 winner",
+        "prince narula",
+        "winner of the 50 show",
+        "the 50",
+        "reality show 50 contestants",
+        "winner of the 50",
+        "who is the winner of the 50"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=the+50+show+winner&tz=420",
+      "news_page_token": "gl45znica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu7An1KLUvMWefpB-DwWcyNR-MLbbyLzuU2r4lD4C5-cQOFP1b-Kot8s9BWEDwCqYy4r",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=gl45znica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu7An1KLUvMWefpB-DwWcyNR-MLbbyLzuU2r4lD4C5-cQOFP1b-Kot8s9BWEDwCqYy4r"
+    },
+    {
+      "query": "marais erasmus",
+      "start_timestamp": 1774157400,
+      "active": true,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "an indian auto rickshaw was spotted driving through london traffic"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=marais+erasmus&tz=420",
+      "news_page_token": "o_qTLHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh5ZH8VFqXmLPP2gfCUuFRS-IbMSMp_7E7MehA8AMMEZig",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=o_qTLHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh5ZH8VFqXmLPP2gfCUuFRS-IbMSMp_7E7MehA8AMMEZig"
+    },
+    {
+      "query": "psl",
+      "start_timestamp": 1774173000,
+      "active": true,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "pakistan cricket",
+        "psl 2026",
+        "pakistan news"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=psl&tz=420",
+      "news_page_token": "Jxzuj3ica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZG7lV5ZYtS8xZ5-kH4POrFhch87vfP76DIm1czI_O5lJJeochLT9uJwjc7JIqifnapJYr5608-ReF_qDmAol8tMh6Fr8ijjKK-uJQbRV7yVhCKfMa6ChR5w4YEFPkvU1-gyKv-QnE_987YJBT37_phhCJ_bOUtCB8AF1p9HQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Jxzuj3ica1xTlFpYmlpcEp-SWJJ4h0F08nkGBgZG7lV5ZYtS8xZ5-kH4POrFhch87vfP76DIm1czI_O5lJJeochLT9uJwjc7JIqifnapJYr5608-ReF_qDmAol8tMh6Fr8ijjKK-uJQbRV7yVhCKfMa6ChR5w4YEFPkvU1-gyKv-QnE_987YJBT37_phhCJ_bOUtCB8AF1p9HQ"
+    },
+    {
+      "query": "jee mains session 2",
+      "start_timestamp": 1774119600,
+      "active": true,
+      "search_volume": 20000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 9,
+          "name": "Jobs and Education"
+        }
+      ],
+      "trend_breakdown": [
+        "nta",
+        "nta jee",
+        "jee main 2026 city slip",
+        "jee mains city intimation",
+        "jeemain.nta.nic.in 2026",
+        "jee nta",
+        "jeemain.nta.nic"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=jee+mains+session+2&tz=420",
+      "news_page_token": "n4zTjHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRq6ayYyLUvMWefpB-DwybZLIfHaJCyUo_GynUxA-AHfRG8o",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=n4zTjHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRq6ayYyLUvMWefpB-DwybZLIfHaJCyUo_GynUxA-AHfRG8o"
+    },
+    {
+      "query": "fabrizio romano",
+      "start_timestamp": 1774162200,
+      "active": true,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=fabrizio+romano&tz=420",
+      "news_page_token": "WddYrHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu6abY2LUvMWhQZD-ffz_iLzuZam8CLzeQyu_EFR3-10H0WeJXc9irxA1gcUfmFdPop6RfMCCB8Av_Q5zw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WddYrHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu6abY2LUvMWhQZD-ffz_iLzuZam8CLzeQyu_EFR3-10H0WeJXc9irxA1gcUfmFdPop6RfMCCB8Av_Q5zw"
+    },
+    {
+      "query": "jude law",
+      "start_timestamp": 1774129200,
+      "active": true,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "jorginho",
+        "chappell roan"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=jude+law&tz=420",
+      "news_page_token": "4ZtVdXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh6drSWLUvMWefpB-aarjJD53FlPqlHkTU7bIPPZe-5eh_ABmbci-g",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=4ZtVdXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh6drSWLUvMWefpB-aarjJD53FlPqlHkTU7bIPPZe-5eh_ABmbci-g"
+    },
+    {
+      "query": "world water day",
+      "start_timestamp": 1774140600,
+      "active": true,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=world+water+day&tz=420",
+      "news_page_token": "YMq_bHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh79xgeLUvMWhQZD-Nyf7kQi87ksPq5Ekd_zdD8yn8fk8U8IHwAMyyWg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=YMq_bHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh79xgeLUvMWhQZD-Nyf7kQi87ksPq5Ekd_zdD8yn8fk8U8IHwAMyyWg"
+    },
+    {
+      "query": "cat",
+      "start_timestamp": 1774170000,
+      "end_timestamp": 1774182000,
+      "active": false,
+      "search_volume": 5000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=cat&tz=420",
+      "news_page_token": "tB8MeHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu4n9lcXpeYt8vSD8mPn6KDwc-XNUfhnwsKQ-TwmKxxR-Cpre1D4Fr21KHzdmARkPkdq0GkIHwC_wjdF",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=tB8MeHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu4n9lcXpeYt8vSD8mPn6KDwc-XNUfhnwsKQ-TwmKxxR-Cpre1D4Fr21KHzdmARkPkdq0GkIHwC_wjdF"
+    },
+    {
+      "query": "dasun shanaka",
+      "start_timestamp": 1774170000,
+      "active": true,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "rr"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=dasun+shanaka&tz=420",
+      "news_page_token": "2Wzyr3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu73z-8sSs1b5OkH4fOYHRJF4RswiqHw2bO1kPncwbwhKPImE42R-Vzz-OeiqP9QcwBFPYvvVBT5IJViCB8AEHs7eQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2Wzyr3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu73z-8sSs1b5OkH4fOYHRJF4RswiqHw2bO1kPncwbwhKPImE42R-Vzz-OeiqP9QcwBFPYvvVBT5IJViCB8AEHs7eQ"
+    },
+    {
+      "query": "project hail mary movie",
+      "start_timestamp": 1774105800,
+      "active": true,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "hail mary movie",
+        "ryan gosling"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=project+hail+mary+movie&tz=420",
+      "news_page_token": "_jbKQXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRu67VvqLUvMWefpB-DyMxaoofDneLGQ-97crL1DkObJno8hDzQsNhsrrsyki87lfPVBF5nPVm3WhyLPwXEXRz5Q9AYWvcGIKqn4PqH0AxhtMFw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_jbKQXica1xTlFpYmlpcEp-SWJI4d_J5BgYGRu67VvqLUvMWefpB-DyMxaoofDneLGQ-97crL1DkObJno8hDzQsNhsrrsyki87lfPVBF5nPVm3WhyLPwXEXRz5Q9AYWvcGIKqn4PqH0AxhtMFw"
+    },
+    {
+      "query": "arsenal vs man city",
+      "start_timestamp": 1774131000,
+      "active": true,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=arsenal+vs+man+city&tz=420",
+      "news_page_token": "2bTKa3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRm7Bil2LUvMWefpB-deeGSLzeQS5F0D4AAfYFwQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2bTKa3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRm7Bil2LUvMWefpB-deeGSLzeQS5F0D4AAfYFwQ"
+    },
+    {
+      "query": "kyle jamieson",
+      "start_timestamp": 1774159800,
+      "end_timestamp": 1774180800,
+      "active": false,
+      "search_volume": 5000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        },
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=kyle+jamieson&tz=420",
+      "news_page_token": "iGylkHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh6zP-aLUvMWefoBAM8ZDEc",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=iGylkHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh6zP-aLUvMWefoBAM8ZDEc"
+    },
+    {
+      "query": "kc tyagi",
+      "start_timestamp": 1774180800,
+      "active": true,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 14,
+          "name": "Politics"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=kc+tyagi&tz=420",
+      "news_page_token": "pDj19nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu6Vl3sWpeYt8vSD8lcsnQHhAwDR6hLn",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=pDj19nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu6Vl3sWpeYt8vSD8lcsnQHhAwDR6hLn"
+    },
+    {
+      "query": "kyunki saas bhi kabhi bahu thi",
+      "start_timestamp": 1774180800,
+      "active": true,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=kyunki+saas+bhi+kabhi+bahu+thi&tz=420",
+      "news_page_token": "Wa1JyHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh4GNe5FqXmLPP0gfO4H09KR-Twi8mkofOZ9XSh8pi8_IXwAQxghNg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Wa1JyHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh4GNe5FqXmLPP0gfO4H09KR-Twi8mkofOZ9XSh8pi8_IXwAQxghNg"
+    },
+    {
+      "query": "wiaan mulder",
+      "start_timestamp": 1774159800,
+      "end_timestamp": 1774172400,
+      "active": false,
+      "search_volume": 10000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=wiaan+mulder&tz=420",
+      "news_page_token": "M-62hnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu6DL_8tSs1b5OkH4XM9VPmNzOcx-2MO4QMARvEZKA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=M-62hnica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu6DL_8tSs1b5OkH4XM9VPmNzOcx-2MO4QMARvEZKA"
+    },
+    {
+      "query": "spencer johnson",
+      "start_timestamp": 1774179000,
+      "active": true,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=spencer+johnson&tz=420",
+      "news_page_token": "b_Z5rnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh6LiBeLUvMWefpB-NyvK9UhfADBmxH-",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=b_Z5rnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh6LiBeLUvMWefpB-NyvK9UhfADBmxH-"
+    },
+    {
+      "query": "heidenheim vs leverkusen",
+      "start_timestamp": 1774100400,
+      "end_timestamp": 1774171800,
+      "active": false,
+      "search_volume": 10000,
+      "increase_percentage": 500,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=heidenheim+vs+leverkusen&tz=420",
+      "news_page_token": "bS1hFnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu4Pt70XpaQu8vQDANT0DOk",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=bS1hFnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu4Pt70XpaQu8vQDANT0DOk"
+    },
+    {
+      "query": "real madrid vs atlético madrid",
+      "start_timestamp": 1774122600,
+      "active": true,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=real+madrid+vs+atl%C3%A9tico+madrid&tz=420",
+      "news_page_token": "dLZ90Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm7f96KLUosXefoBAM6cDDM",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=dLZ90Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm7f96KLUosXefoBAM6cDDM"
+    },
+    {
+      "query": "dortmund vs hamburg",
+      "start_timestamp": 1774111200,
+      "end_timestamp": 1774167000,
+      "active": false,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "dortmund"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=dortmund+vs+hamburg&tz=420",
+      "news_page_token": "ieW7Dnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu7mPptFKamLPP2g_Gy7Pch8Hq0LsSh8cykFFPVHz6ej8HeX30fh1yT-R-Hvl8mF8AF26zME",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=ieW7Dnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu7mPptFKamLPP2g_Gy7Pch8Hq0LsSh8cykFFPVHz6ej8HeX30fh1yT-R-Hvl8mF8AF26zME"
+    },
+    {
+      "query": "tim robinson",
+      "start_timestamp": 1774167000,
+      "end_timestamp": 1774173600,
+      "active": false,
+      "search_volume": 5000,
+      "increase_percentage": 700,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=tim+robinson&tz=420",
+      "news_page_token": "15YhmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh5jtdZFqXmLPP0AynALvA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=15YhmXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh5jtdZFqXmLPP0AynALvA"
+    },
+    {
+      "query": "barcelona vs athletic club",
+      "start_timestamp": 1774113600,
+      "end_timestamp": 1774161600,
+      "active": false,
+      "search_volume": 10000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=barcelona+vs+athletic+club&tz=420",
+      "news_page_token": "bssgw3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh5xUeFFqXmLPP0Axc4LHQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=bssgw3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh5xUeFFqXmLPP0Axc4LHQ"
+    },
+    {
+      "query": "benfica vs vitória sc",
+      "start_timestamp": 1774113000,
+      "end_timestamp": 1774164000,
+      "active": false,
+      "search_volume": 10000,
+      "increase_percentage": 700,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=benfica+vs+vit%C3%B3ria+sc&tz=420",
+      "news_page_token": "I3wGS3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh5dn95FBSWLPP0gfO7d5fdR-OEJByB8AAtrF9k",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=I3wGS3ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh5dn95FBSWLPP0gfO7d5fdR-OEJByB8AAtrF9k"
+    },
+    {
+      "query": "fulham vs burnley",
+      "start_timestamp": 1774102200,
+      "end_timestamp": 1774159800,
+      "active": false,
+      "search_volume": 10000,
+      "increase_percentage": 600,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "fulham"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=fulham+vs+burnley&tz=420",
+      "news_page_token": "g0Hagnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRu51gj6LUvMWefpB-DzqN02R-dy7y--j8B2bFqGo1yqQReZz7VzchMI_0tyNon-eVTMKv_geNzKf7du0EBT-6QRlFP75w5Wo9u-_DuEDAPrsT_g",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=g0Hagnica1xTlFpYmlpcEp-SWJI4d_J5BgYGRu51gj6LUvMWefpB-DzqN02R-dy7y--j8B2bFqGo1yqQReZz7VzchMI_0tyNon-eVTMKv_geNzKf7du0EBT-6QRlFP75w5Wo9u-_DuEDAPrsT_g"
+    },
+    {
+      "query": "gta vi",
+      "start_timestamp": 1774155600,
+      "end_timestamp": 1774167000,
+      "active": false,
+      "search_volume": 5000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Games"
+        }
+      ],
+      "trend_breakdown": [
+        "grand theft auto vi"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=gta+vi&tz=420",
+      "news_page_token": "97cPM3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu6dj4UXpeYt8vSD8Lm0d99H4X8VkkHm8xj0LEbmc28wXIoir6WfgCI_53kMCl83th7CBwC97zLF",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=97cPM3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu6dj4UXpeYt8vSD8Lm0d99H4X8VkkHm8xj0LEbmc28wXIoir6WfgCI_53kMCl83th7CBwC97zLF"
+    },
+    {
+      "query": "off campus",
+      "start_timestamp": 1774177200,
+      "active": true,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=off+campus&tz=420",
+      "news_page_token": "NPaf2nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm4VjehFqXmLPP0gfI4O9ncQPgCsqhEb",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=NPaf2nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm4VjehFqXmLPP0gfI4O9ncQPgCsqhEb"
+    },
+    {
+      "query": "konark suryas odisha vs india tigers",
+      "start_timestamp": 1774164000,
+      "active": true,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=konark+suryas+odisha+vs+india+tigers&tz=420",
+      "news_page_token": "rZ381Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu7OabmLUvMWefpB-d83PEHhr3VygfABJukYYQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=rZ381Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu7OabmLUvMWefpB-d83PEHhr3VygfABJukYYQ"
+    },
+    {
+      "query": "bodoland lottery result",
+      "start_timestamp": 1774175400,
+      "end_timestamp": 1774182000,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Games"
+        }
+      ],
+      "trend_breakdown": [
+        "assam lottery result",
+        "bodoland lottery result today",
+        "jackpot result",
+        "bodoland lottery"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=bodoland+lottery+result&tz=420",
+      "news_page_token": "6udKSXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRm59s5-LUvMWefpB-SvETqHwN7C9ROFPq9uAzOeRZYxA4bOWTkNRn3BmOoQPAJkTLR8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6udKSXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRm59s5-LUvMWefpB-SvETqHwN7C9ROFPq9uAzOeRZYxA4bOWTkNRn3BmOoQPAJkTLR8"
+    },
+    {
+      "query": "ram navami 2026 date",
+      "start_timestamp": 1774180200,
+      "active": true,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 8,
+          "name": "Hobbies and Leisure"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ram+navami+2026+date&tz=420",
+      "news_page_token": "R4oHwXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRs77NeaLUvMWefpB-NxFd4QgfADDWRHq",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=R4oHwXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRs77NeaLUvMWefpB-NxFd4QgfADDWRHq"
+    },
+    {
+      "query": "sevilla vs valencia",
+      "start_timestamp": 1774120200,
+      "end_timestamp": 1774162800,
+      "active": false,
+      "search_volume": 5000,
+      "increase_percentage": 500,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sevilla+vs+valencia&tz=420",
+      "news_page_token": "kIAWnHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu6Ytz6LUvMWefpB-bnJKyF8AMNpEgg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=kIAWnHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu6Ytz6LUvMWefpB-bnJKyF8AMNpEgg"
+    },
+    {
+      "query": "एलपीजी गैस समाचार",
+      "start_timestamp": 1774161600,
+      "active": true,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%8F%E0%A4%B2%E0%A4%AA%E0%A5%80%E0%A4%9C%E0%A5%80+%E0%A4%97%E0%A5%88%E0%A4%B8+%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0&tz=420",
+      "news_page_token": "uaQ1VHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRq6HZ18syshc5OkH4XPvT_iGzOeRed6PIv8gby0Kf8KJ16h83m0o-llCUM3jDjoB4QMAy2E12w",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=uaQ1VHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRq6HZ18syshc5OkH4XPvT_iGzOeRed6PIv8gby0Kf8KJ16h83m0o-llCUM3jDjoB4QMAy2E12w"
+    },
+    {
+      "query": "south africa women's national cricket team vs new zealand women's national cricket team match scorecard",
+      "start_timestamp": 1774142400,
+      "end_timestamp": 1774147800,
+      "active": false,
+      "search_volume": 10000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "sophie devine",
+        "nz w vs sa w",
+        "jess kerr",
+        "sa w vs nz w",
+        "suné luus",
+        "nz-w vs sa-w",
+        "nzw vs saw",
+        "nz vs sa women"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=south+africa+women%27s+national+cricket+team+vs+new+zealand+women%27s+national+cricket+team+match+scorecard&tz=420",
+      "news_page_token": "pdvR7Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7etMuLUvMWefpB-DyKadXIfM6fUxSR-VxPpNohfAC0Nx0t",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=pdvR7Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7etMuLUvMWefpB-DyKadXIfM6fUxSR-VxPpNohfAC0Nx0t"
+    },
+    {
+      "query": "magic vs lakers",
+      "start_timestamp": 1774134600,
+      "end_timestamp": 1774159800,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 500,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=magic+vs+lakers&tz=420",
+      "news_page_token": "xP-avnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu7LnH2LUvMWefpB-f-OzUXm8-jbzEPhm0_MROEbCOxA0Z91_B-KPK8HH4QPAMQJLR4",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=xP-avnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu7LnH2LUvMWefpB-f-OzUXm8-jbzEPhm0_MROEbCOxA0Z91_B-KPK8HH4QPAMQJLR4"
+    },
+    {
+      "query": "luxembourg",
+      "start_timestamp": 1774144800,
+      "end_timestamp": 1774176600,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 14,
+          "name": "Politics"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=luxembourg&tz=420",
+      "news_page_token": "IXsdbXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRh7jq_6L0ooWefpB-NxPHl1A5vOYs9mj8C18l6PwTWb5ovC5chtR-MxRD1HMv1i8AtX84N8ofIOOTggfAJxCPbQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=IXsdbXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRh7jq_6L0ooWefpB-NxPHl1A5vOYs9mj8C18l6PwTWb5ovC5chtR-MxRD1HMv1i8AtX84N8ofIOOTggfAJxCPbQ"
+    },
+    {
+      "query": "leeds united vs brentford",
+      "start_timestamp": 1774120200,
+      "end_timestamp": 1774155600,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 500,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "leeds united"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=leeds+united+vs+brentford&tz=420",
+      "news_page_token": "3wufyHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRq6di5sWpeYt8vSD8Lk_Fgqg8HeX30eV38-Mwm8IOYzM57EoLIHwAVE4KTY",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=3wufyHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRq6di5sWpeYt8vSD8Lk_Fgqg8HeX30eV38-Mwm8IOYzM57EoLIHwAVE4KTY"
+    },
+    {
+      "query": "mumbai indians",
+      "start_timestamp": 1774177800,
+      "end_timestamp": 1774182000,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        },
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=mumbai+indians&tz=420",
+      "news_page_token": "TdTxjHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRh4tffdFqXmLPP0gfO4rxxKQ-TzSO1RQ5MsShZD5XBvimFHUG31vQ-Gr_IhE0T-9MQaF__tENYQPAHyeOCk",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TdTxjHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRh4tffdFqXmLPP0gfO4rxxKQ-TzSO1RQ5MsShZD5XBvimFHUG31vQ-Gr_IhE0T-9MQaF__tENYQPAHyeOCk"
+    },
+    {
+      "query": "coindcx founders",
+      "start_timestamp": 1774157400,
+      "end_timestamp": 1774169400,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "trend_breakdown": [
+        "coindcx",
+        "coindcx sumit gupta",
+        "impersonation conspiracy",
+        "neeraj khandelwal"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=coindcx+founders&tz=420",
+      "news_page_token": "2-FFrnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh6tnvuLUvMWefpB-frlXRA-AMBhEcE",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2-FFrnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh6tnvuLUvMWefpB-frlXRA-AMBhEcE"
+    },
+    {
+      "query": "world water day 2026",
+      "start_timestamp": 1774144200,
+      "end_timestamp": 1774172400,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=world+water+day+2026&tz=420",
+      "news_page_token": "JUXRLHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5Fi5IXpeYt8vQDANE_DIQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=JUXRLHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5Fi5IXpeYt8vQDANE_DIQ"
+    },
+    {
+      "query": "22 march",
+      "start_timestamp": 1774121400,
+      "end_timestamp": 1774170000,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "22 march 2026",
+        "today rashifal"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=22+march&tz=420",
+      "news_page_token": "4ynRaHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRh7tI5KLUvMWefpB-cx705H53OxTGVHklX_9Q-FrXjyJwleIKkLRv3qhCAr_YfJ8FL7uzAAU_YrP2lDkb3lMRuG39MyC8AGoEkj9",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=4ynRaHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRh7tI5KLUvMWefpB-cx705H53OxTGVHklX_9Q-FrXjyJwleIKkLRv3qhCAr_YfJ8FL7uzAAU_YrP2lDkb3lMRuG39MyC8AGoEkj9"
+    },
+    {
+      "query": "আগামীকালের আবহাওয়া",
+      "start_timestamp": 1774106400,
+      "end_timestamp": 1774114200,
+      "active": false,
+      "search_volume": 50000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 20,
+          "name": "Climate"
+        }
+      ],
+      "trend_breakdown": [
+        "আজকের আবহাওয়া"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0+%E0%A6%86%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE&tz=420",
+      "news_page_token": "7MXcBHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu6s2f8XJeUt8vQDANNEDN4",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=7MXcBHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu6s2f8XJeUt8vQDANNEDN4"
+    },
+    {
+      "query": "arirang bts album",
+      "start_timestamp": 1774176600,
+      "end_timestamp": 1774181400,
+      "active": false,
+      "search_volume": 5000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "bts live concert arirang",
+        "bts concert arirang"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=arirang+bts+album&tz=420",
+      "news_page_token": "r0IpRnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRm6FhjOLUvMWefpB-Sf_8yHzeRh3fEKRv6J6F4V_7q8fqnozLggfADldKI0",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=r0IpRnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRm6FhjOLUvMWefpB-Sf_8yHzeRh3fEKRv6J6F4V_7q8fqnozLggfADldKI0"
+    },
+    {
+      "query": "matt short",
+      "start_timestamp": 1774165800,
+      "end_timestamp": 1774176000,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=matt+short&tz=420",
+      "news_page_token": "scbPHXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu7XfRKLUvMWefrB-JXqED4AxVwSFg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=scbPHXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu7XfRKLUvMWefrB-JXqED4AxVwSFg"
+    },
+    {
+      "query": "ऑस्ट्रेलिया महिलाएं बनाम वेस्ट इंडीज महिला",
+      "start_timestamp": 1774133400,
+      "end_timestamp": 1774158600,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%91%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE+%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%8F%E0%A4%82+%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE+%E0%A4%B5%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F+%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A5%80%E0%A4%9C+%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE&tz=420",
+      "news_page_token": "T8o293ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5jCyYvyshc5OkHANO-DNQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=T8o293ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5jCyYvyshc5OkHANO-DNQ"
+    },
+    {
+      "query": "jason gillespie",
+      "start_timestamp": 1774167600,
+      "end_timestamp": 1774177800,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=jason+gillespie&tz=420",
+      "news_page_token": "H6ZOKnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7paTsXpeYt8vSD8pVj3SF8ALlfES0",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=H6ZOKnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7paTsXpeYt8vSD8pVj3SF8ALlfES0"
+    },
+    {
+      "query": "hayley matthews",
+      "start_timestamp": 1774134000,
+      "end_timestamp": 1774147200,
+      "active": false,
+      "search_volume": 5000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "au-w vs wi-w",
+        "australia women's national cricket team vs west indies women's cricket team match scorecard",
+        "alana king",
+        "beth mooney",
+        "west indies women's cricket team vs australia women's national cricket team match scorecard"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=hayley+matthews&tz=420",
+      "news_page_token": "swbAhnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRq4f-yMXpeYt8vSD8HmMD7Oj8BXTqlH4Mk8XoPBVdnsh87mPLZgM4QMA_z4oQw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=swbAhnica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRq4f-yMXpeYt8vSD8HmMD7Oj8BXTqlH4Mk8XoPBVdnsh87mPLZgM4QMA_z4oQw"
+    },
+    {
+      "query": "drishyam 3 mohanlal",
+      "start_timestamp": 1774109400,
+      "end_timestamp": 1774177200,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=drishyam+3+mohanlal&tz=420",
+      "news_page_token": "dQyEEHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm6pzohFqXmLPP2gfPdmT2Q-1x9ZQxT5I1qyKPwlFucgfABk4CFd",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=dQyEEHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm6pzohFqXmLPP2gfPdmT2Q-1x9ZQxT5I1qyKPwlFucgfABk4CFd"
+    },
+    {
+      "query": "भारतीय स्टेट बैंक",
+      "start_timestamp": 1774176000,
+      "end_timestamp": 1774182000,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%9F+%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95&tz=420",
+      "news_page_token": "0Qbfa3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu6UNyyLMjIXefpB-FwFH5Yg83kMM98h87nfhV5GkWdZOAVFvqVnL4QPADTCKV8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=0Qbfa3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu6UNyyLMjIXefpB-FwFH5Yg83kMM98h87nfhV5GkWdZOAVFvqVnL4QPADTCKV8"
+    },
+    {
+      "query": "sa-w vs nz-w",
+      "start_timestamp": 1774144200,
+      "end_timestamp": 1774158000,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 600,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "nz vs sa w"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sa-w+vs+nz-w&tz=420",
+      "news_page_token": "icOK8Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRs6fUxQXpeYt8vSD8Ll70y4j83kU06qR-VxPpNpR-A9VfkP4AMBPI0k",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=icOK8Xica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRs6fUxQXpeYt8vSD8Ll70y4j83kU06qR-VxPpNpR-A9VfkP4AMBPI0k"
+    },
+    {
+      "query": "रुपाली चाकणकर",
+      "start_timestamp": 1774162800,
+      "end_timestamp": 1774176600,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "trend_breakdown": [
+        "sunetra pawar"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%B0%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A5%80+%E0%A4%9A%E0%A4%BE%E0%A4%95%E0%A4%A3%E0%A4%95%E0%A4%B0&tz=420",
+      "news_page_token": "RXM8AHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu79i28tyshc5OkH5R-58BCFD5JPzUOVR-ZfMDNH5nNV7lBB5vMY1vCiyCe63EDR_7yvDcIHAHN9O-Y",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=RXM8AHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu79i28tyshc5OkH5R-58BCFD5JPzUOVR-ZfMDNH5nNV7lBB5vMY1vCiyCe63EDR_7yvDcIHAHN9O-Y"
+    },
+    {
+      "query": "nashville vs orlando city",
+      "start_timestamp": 1774133400,
+      "end_timestamp": 1774156200,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 300,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=nashville+vs+orlando+city&tz=420",
+      "news_page_token": "eS0o1nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu4pxtmLUvMWefpB-DwG1hdR-PxsayB8APRJFkg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=eS0o1nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu4pxtmLUvMWefpB-DwG1hdR-PxsayB8APRJFkg"
+    },
+    {
+      "query": "osasuna vs girona",
+      "start_timestamp": 1774111200,
+      "end_timestamp": 1774150800,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=osasuna+vs+girona&tz=420",
+      "news_page_token": "aTW213ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRq774scWpeYt8vQDANG3DJg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=aTW213ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRq774scWpeYt8vQDANG3DJg"
+    },
+    {
+      "query": "espanyol vs getafe",
+      "start_timestamp": 1774102800,
+      "end_timestamp": 1774126200,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 400,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=espanyol+vs+getafe&tz=420",
+      "news_page_token": "myzJhXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRq77OayLUvMWefoBAM8YDCw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=myzJhXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRq77OayLUvMWefoBAM8YDCw"
+    },
+    {
+      "query": "লটারি সংবাদ",
+      "start_timestamp": 1774167000,
+      "end_timestamp": 1774170600,
+      "active": false,
+      "search_volume": 5000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Games"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A6%B2%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF+%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6&tz=420",
+      "news_page_token": "2A90OHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh61Fr5FSXmLPP0gfO7Sa_sgfACy-BG2",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2A90OHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh61Fr5FSXmLPP0gfO7Sa_sgfACy-BG2"
+    },
+    {
+      "query": "meri zindagi hai tu episode 34",
+      "start_timestamp": 1774113000,
+      "end_timestamp": 1774133400,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "meri zindagi hai tu drama episode 34",
+        "meri zindagi hai tu last episode"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=meri+zindagi+hai+tu+episode+34&tz=420",
+      "news_page_token": "wH_TlXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh7Z0uWLUvMWefpB-YaZ_1H4Zv5fUOU_pUD4AKXNHQo",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=wH_TlXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh7Z0uWLUvMWefpB-YaZ_1H4Zv5fUOU_pUD4AKXNHQo"
+    },
+    {
+      "query": "వాతావరణం",
+      "start_timestamp": 1774142400,
+      "end_timestamp": 1774146600,
+      "active": false,
+      "search_volume": 10000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%B0%B5%E0%B0%BE%E0%B0%A4%E0%B0%BE%E0%B0%B5%E0%B0%B0%E0%B0%A3%E0%B0%82&tz=420",
+      "news_page_token": "QLSmEXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm4h0wuLSlIXefoBAMvpC_o",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=QLSmEXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm4h0wuLSlIXefoBAMvpC_o"
+    },
+    {
+      "query": "lottery sambad morning",
+      "start_timestamp": 1774166400,
+      "end_timestamp": 1774171800,
+      "active": false,
+      "search_volume": 10000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Games"
+        }
+      ],
+      "trend_breakdown": [
+        "lottery sambad night",
+        "nagaland lottery",
+        "rajya lottery",
+        "nagaland lottery result",
+        "lottery sambad today",
+        "morning lottery sambad",
+        "night lottery sambad",
+        "dear lottery result today 1pm",
+        "sambad lottery",
+        "morning result",
+        "today lottery sambad",
+        "dear lottery result today 8pm",
+        "night lottery result"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=lottery+sambad+morning&tz=420",
+      "news_page_token": "DoG6Onica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh5ZxohFqXmLPP0gfO6HyfbIfB7FzjgIHwDhGBYa",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=DoG6Onica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh5ZxohFqXmLPP0gfO6HyfbIfB7FzjgIHwDhGBYa"
+    },
+    {
+      "query": "sheffield united vs wrexham",
+      "start_timestamp": 1774102800,
+      "end_timestamp": 1774158000,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sheffield+united+vs+wrexham&tz=420",
+      "news_page_token": "WC8a9nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5VzxQXpeYt8vQDANHZDI4",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WC8a9nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5VzxQXpeYt8vQDANHZDI4"
+    },
+    {
+      "query": "levante vs real oviedo",
+      "start_timestamp": 1774111200,
+      "end_timestamp": 1774148400,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=levante+vs+real+oviedo&tz=420",
+      "news_page_token": "eW0S_Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu4QxnuLUvMWefpB-Dy6MW8gfAC5BhGj",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=eW0S_Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu4QxnuLUvMWefpB-Dy6MW8gfAC5BhGj"
+    },
+    {
+      "query": "bilal arif",
+      "start_timestamp": 1774111800,
+      "end_timestamp": 1774148400,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "trend_breakdown": [
+        "lashkar e taiba",
+        "muridke",
+        "lashkar e taiba commander bilal"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=bilal+arif&tz=420",
+      "news_page_token": "We-rR3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh7VXzsXpeYt8vSD8o0yJZH53L90v6PIG-QeQ-Gr5N6H8AGz0SLS",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=We-rR3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh7VXzsXpeYt8vSD8o0yJZH53L90v6PIG-QeQ-Gr5N6H8AGz0SLS"
+    },
+    {
+      "query": "movsar evloev",
+      "start_timestamp": 1774130400,
+      "end_timestamp": 1774155000,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "ufc",
+        "lerone murphy"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=movsar+evloev&tz=420",
+      "news_page_token": "83KbQXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRq7vE3csSs1b5OkH4XMnbI1D4efF9KHwG0KeI_N5LCy-o8inX3-Ewp8e_RVFvWFpAQrfROMDCl878waEDwCIOD_n",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=83KbQXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRq7vE3csSs1b5OkH4XMnbI1D4efF9KHwG0KeI_N5LCy-o8inX3-Ewp8e_RVFvWFpAQrfROMDCl878waEDwCIOD_n"
+    },
+    {
+      "query": "casino online",
+      "start_timestamp": 1774114200,
+      "end_timestamp": 1774158600,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Games"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=casino+online&tz=420",
+      "news_page_token": "USKaxXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu7CdI1FqXmLPP2g_Jq-GxA-ALjSEdw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=USKaxXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu7CdI1FqXmLPP2g_Jq-GxA-ALjSEdw"
+    },
+    {
+      "query": "dhurandhar part 3",
+      "start_timestamp": 1774117200,
+      "end_timestamp": 1774137000,
+      "active": false,
+      "search_volume": 5000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "dhurandhar final chapter release date",
+        "jaskirat singh rangi is real",
+        "post credit scene in dhurandhar 2",
+        "dhurandhar 3 will come",
+        "dhurandhar real story",
+        "jaskirat singh rangi real image",
+        "jaskirat singh rangi real story",
+        "jaskirat singh rangi is alive or not",
+        "is there dhurandhar 3",
+        "dhurandhar 2 post credit scene",
+        "will there be dhurandhar 3",
+        "dhurandhar is real story"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=dhurandhar+part+3&tz=420",
+      "news_page_token": "FtfA4Xica1xTlFpYmlpcEp-SWJI4e_J5BgYGRq73BwMWpeYt8vSD8Lnb931F4S_XOoLCb7r5BpnPo5L6HUX-a-EUFP77zbNR-K03V6PoN2mfiiL_5sYKFHnDLHMIHwDCAEhl",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=FtfA4Xica1xTlFpYmlpcEp-SWJI4e_J5BgYGRq73BwMWpeYt8vSD8Lnb931F4S_XOoLCb7r5BpnPo5L6HUX-a-EUFP77zbNR-K03V6PoN2mfiiL_5sYKFHnDLHMIHwDCAEhl"
+    },
+    {
+      "query": "jujutsu kaisen season 3 episode 5",
+      "start_timestamp": 1774161600,
+      "end_timestamp": 1774182600,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=jujutsu+kaisen+season+3+episode+5&tz=420",
+      "news_page_token": "m84-g3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm6141MXpeYt8vQDAM9pDF8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=m84-g3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm6141MXpeYt8vQDAM9pDF8"
+    },
+    {
+      "query": "ipl srh practice match",
+      "start_timestamp": 1774156200,
+      "end_timestamp": 1774166400,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ipl+srh+practice+match&tz=420",
+      "news_page_token": "t8rmLHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh4tp-OLUvMWefpB-erfLqDyJXYi87nvm5qgyPMnvIbwAZiJIg8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=t8rmLHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh4tp-OLUvMWefpB-erfLqDyJXYi87nvm5qgyPMnvIbwAZiJIg8"
+    },
+    {
+      "query": "anushka shetty",
+      "start_timestamp": 1774116600,
+      "end_timestamp": 1774161600,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=anushka+shetty&tz=420",
+      "news_page_token": "3bSimXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu7AM96LUvMWefpB-R4p71H4q58IIvN5TE9Eo8ibFh9H4QfFpEL4AAd1J-w",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=3bSimXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu7AM96LUvMWefpB-R4p71H4q58IIvN5TE9Eo8ibFh9H4QfFpEL4AAd1J-w"
+    },
+    {
+      "query": "dawood",
+      "start_timestamp": 1774116000,
+      "end_timestamp": 1774138800,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "dawood ibrahim is still alive",
+        "dhurandar cast",
+        "is dawood ibrahim dead or alive",
+        "dawood ibrahim death"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=dawood&tz=420",
+      "news_page_token": "qacfzXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu7j3XMWpeYt8vSD8ltvrkbhn0w8gcJ_2HAahZ-xrgKFH_pzCTKfR9lkLYr8ozA7FP6Fbi1kPtf7gwEQPgAJ60F2",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=qacfzXica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu7j3XMWpeYt8vSD8ltvrkbhn0w8gcJ_2HAahZ-xrgKFH_pzCTKfR9lkLYr8ozA7FP6Fbi1kPtf7gwEQPgAJ60F2"
+    },
+    {
+      "query": "happy eid mubarak wishes in english",
+      "start_timestamp": 1774140600,
+      "end_timestamp": 1774152000,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 500,
+      "categories": [
+        {
+          "id": 8,
+          "name": "Hobbies and Leisure"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=happy+eid+mubarak+wishes+in+english&tz=420",
+      "news_page_token": "nkhr5nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRq7EWOZFqXmLPP0AyiQLnQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=nkhr5nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRq7EWOZFqXmLPP0AyiQLnQ"
+    },
+    {
+      "query": "hawks vs warriors",
+      "start_timestamp": 1774140600,
+      "end_timestamp": 1774155000,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=hawks+vs+warriors&tz=420",
+      "news_page_token": "QIjH9nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu669csWpeYt8vSD8Hk0_uYg87mzjv9DkTeUnQPhAwDS7x2z",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=QIjH9nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu669csWpeYt8vSD8Hk0_uYg87mzjv9DkTeUnQPhAwDS7x2z"
+    },
+    {
+      "query": "kushmanda mata ki aarti",
+      "start_timestamp": 1774148400,
+      "end_timestamp": 1774159800,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 8,
+          "name": "Hobbies and Leisure"
+        }
+      ],
+      "trend_breakdown": [
+        "maa kushmanda ki aarti",
+        "fourth day of navratri 2026",
+        "chauthe navratri ki aarti"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=kushmanda+mata+ki+aarti&tz=420",
+      "news_page_token": "s_Xgu3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7mUslFqXmLPP0gfO5n6yZA-ACw5xGw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=s_Xgu3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7mUslFqXmLPP0gfO5n6yZA-ACw5xGw"
+    },
+    {
+      "query": "aus w vs wi w",
+      "start_timestamp": 1774132200,
+      "end_timestamp": 1774145400,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 400,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "wi w vs aus w",
+        "wi-w vs au-w"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=aus+w+vs+wi+w&tz=420",
+      "news_page_token": "LklG9Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRs5_AuaLUvMWefpB-Fw_9kci83mMFPqR-WD1Kamo6pH4YPVgPgD8RSe4",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=LklG9Hica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRs5_AuaLUvMWefpB-Fw_9kci83mMFPqR-WD1Kamo6pH4YPVgPgD8RSe4"
+    },
+    {
+      "query": "rahman dakait",
+      "start_timestamp": 1774107600,
+      "end_timestamp": 1774183200,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=rahman+dakait&tz=420",
+      "news_page_token": "WsXQa3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh62APZFqXmLPP0gfM4bNxYh87neHwxA5nM33XwD4QMApzQeKA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WsXQa3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh62APZFqXmLPP0gfM4bNxYh87neHwxA5nM33XwD4QMApzQeKA"
+    },
+    {
+      "query": "premier league manchester united",
+      "start_timestamp": 1774119000,
+      "end_timestamp": 1774176600,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=premier+league+manchester+united&tz=420",
+      "news_page_token": "XxeTYHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu55Vs2LUvMWefpB-DyKaabIfO77eX9R5Fly16PwzSdcQ-GbBmSg8LVen0WV178A4QMAi_4yzw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=XxeTYHica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu55Vs2LUvMWefpB-DyKaabIfO77eX9R5Fly16PwzSdcQ-GbBmSg8LVen0WV178A4QMAi_4yzw"
+    },
+    {
+      "query": "perth glory vs melbourne city fc",
+      "start_timestamp": 1774165800,
+      "end_timestamp": 1774171800,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=perth+glory+vs+melbourne+city+fc&tz=420",
+      "news_page_token": "DMdZ2nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu4crWmLUvMWefoBAMz-DAk",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=DMdZ2nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu4crWmLUvMWefoBAMz-DAk"
+    },
+    {
+      "query": "bihar board",
+      "start_timestamp": 1774144800,
+      "end_timestamp": 1774171800,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 9,
+          "name": "Jobs and Education"
+        }
+      ],
+      "trend_breakdown": [
+        "12th result 2026",
+        "bseb 12th result 2026",
+        "inter ka result kab aaega",
+        "bihar board 10th result 2026"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=bihar+board&tz=420",
+      "news_page_token": "T3usw3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRq6qU_8XpeYt8vSD8jvYJVD4l_1R5bkS4pD5PAbT-1HkJ2ldQOZzP277gqJefrk1qv6eKRA-AEHnOSY",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=T3usw3ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRq6qU_8XpeYt8vSD8jvYJVD4l_1R5bkS4pD5PAbT-1HkJ2ldQOZzP277gqJefrk1qv6eKRA-AEHnOSY"
+    },
+    {
+      "query": "singer mangli",
+      "start_timestamp": 1774138800,
+      "end_timestamp": 1774159200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=singer+mangli&tz=420",
+      "news_page_token": "emOdInica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm6D1dmLUvMWefpB-VlTtCB8ALmqEWg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=emOdInica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm6D1dmLUvMWefpB-VlTtCB8ALmqEWg"
+    },
+    {
+      "query": "nba",
+      "start_timestamp": 1774137000,
+      "end_timestamp": 1774149000,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=nba&tz=420",
+      "news_page_token": "lOncinica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG7n_H5i5KzVvk6Qfh85hPzEThGwjsQOHr28xD5nMv3c-Nwr97ywGF32hzAZnPVXNqA4r84cUqKPys4_9Q-NqdDCj8xWvlUPiZS4tQ3KcpnYUivyzbC4XP2qGNwn-vxI6iXzfnIIQPAPTZaiQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=lOncinica1xTlFpYmlpcEp-SWJJ4h0Fo8nkGBgZG7n_H5i5KzVvk6Qfh85hPzEThGwjsQOHr28xD5nMv3c-Nwr97ywGF32hzAZnPVXNqA4r84cUqKPys4_9Q-NqdDCj8xWvlUPiZS4tQ3KcpnYUivyzbC4XP2qGNwn-vxI6iXzfnIIQPAPTZaiQ"
+    },
+    {
+      "query": "filmy filmy",
+      "start_timestamp": 1774097400,
+      "end_timestamp": 1774113600,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=filmy+filmy&tz=420",
+      "news_page_token": "SSV_mnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRh7lOUGLCnIWefpB-Ny7b81B4W94aIDM51EsakPmc30x8EdRnzpNGEW9Sp4Oivz39H8QPgDOAzOp",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=SSV_mnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRh7lOUGLCnIWefpB-Ny7b81B4W94aIDM51EsakPmc30x8EdRnzpNGEW9Sp4Oivz39H8QPgDOAzOp"
+    },
+    {
+      "query": "austin vs lafc",
+      "start_timestamp": 1774142400,
+      "end_timestamp": 1774156200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=austin+vs+lafc&tz=420",
+      "news_page_token": "yL1K8Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu7Fa94uSs1b5OkH4fPws62B8AHMoBH4",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=yL1K8Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu7Fa94uSs1b5OkH4fPws62B8AHMoBH4"
+    },
+    {
+      "query": "danny welbeck",
+      "start_timestamp": 1774098000,
+      "end_timestamp": 1774126800,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=danny+welbeck&tz=420",
+      "news_page_token": "LlSn_Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh7NHxGLUvMWefpB-NzF97iR-ZxPTL0gfAAJWhdO",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=LlSn_Hica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh7NHxGLUvMWefpB-NzF97iR-ZxPTL0gfAAJWhdO"
+    },
+    {
+      "query": "water day",
+      "start_timestamp": 1774147200,
+      "end_timestamp": 1774159800,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "trend_breakdown": [
+        "world water day 2026 theme"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=water+day&tz=420",
+      "news_page_token": "stDcdXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRi6LjysXpeYt8vSD8LkXLUpG4S-xuIrMh6kPDYbKf7oTiczn0W98gMI3NeCC8AEnoy7x",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=stDcdXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRi6LjysXpeYt8vSD8LkXLUpG4S-xuIrMh6kPDYbKf7oTiczn0W98gMI3NeCC8AEnoy7x"
+    },
+    {
+      "query": "iran israel attack",
+      "start_timestamp": 1774113600,
+      "end_timestamp": 1774121400,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 800,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "trend_breakdown": [
+        "us"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=iran+israel+attack&tz=420",
+      "news_page_token": "OoPd_nica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG7n2NnItS8xZ5-kH4XH9abyPzubPf3ULh34kyR-bzqEXGo8j_WRaIwv_25y8K_7FRFQr_fcxHFPN0FuuiyHMJm6Dw62SPoaiX5zdFcf-zzSju53rAm4ei_9TXx8h8zsXechA-AAhSaFQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=OoPd_nica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZG7n2NnItS8xZ5-kH4XH9abyPzubPf3ULh34kyR-bzqEXGo8j_WRaIwv_25y8K_7FRFQr_fcxHFPN0FuuiyHMJm6Dw62SPoaiX5zdFcf-zzSju53rAm4ei_9TXx8h8zsXechA-AAhSaFQ"
+    },
+    {
+      "query": "lakers",
+      "start_timestamp": 1774141800,
+      "end_timestamp": 1774152600,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "lakers vs magic"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=lakers&tz=420",
+      "news_page_token": "PCltvXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRh59m3mLUvMWefpB-QYCO1D4DEKxyHzuf8fmovAvc_ahqDefmIkiP_OpKAr_7t-bKOp5PfggfACVaDff",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=PCltvXica1xTlFpYmlpcEp-SWJI4c_J5BgYGRh59m3mLUvMWefpB-QYCO1D4DEKxyHzuf8fmovAvc_ahqDefmIkiP_OpKAr_7t-bKOp5PfggfACVaDff"
+    },
+    {
+      "query": "mitchell starc",
+      "start_timestamp": 1774149600,
+      "end_timestamp": 1774158000,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "starc ipl"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=mitchell+starc&tz=420",
+      "news_page_token": "3od55Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu5HzKaLUvMWefpB-a8r1VH4b5NfIfN5zKu5UeQFIzdB-ACh0yIK",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=3od55Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu5HzKaLUvMWefpB-a8r1VH4b5NfIfN5zKu5UeQFIzdB-ACh0yIK"
+    },
+    {
+      "query": "viral videos video",
+      "start_timestamp": 1774125600,
+      "end_timestamp": 1774135200,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=viral+videos+video&tz=420",
+      "news_page_token": "JUYYynica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh5Gu9eLUvMWefpB-NxXfr5A5vNIbUhE4XO_eQvhAwDKdR4l",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=JUYYynica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh5Gu9eLUvMWefpB-NxXfr5A5vNIbUhE4XO_eQvhAwDKdR4l"
+    },
+    {
+      "query": "apsrtc",
+      "start_timestamp": 1774148400,
+      "end_timestamp": 1774156200,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=apsrtc&tz=420",
+      "news_page_token": "Oilxynica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7p3vBFqXmLPP2gfNMTZhA-ALM8ES4",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Oilxynica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7p3vBFqXmLPP2gfNMTZhA-ALM8ES4"
+    },
+    {
+      "query": "iranian oil",
+      "start_timestamp": 1774099200,
+      "end_timestamp": 1774107000,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 500,
+      "categories": [
+        {
+          "id": 14,
+          "name": "Politics"
+        },
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "trend_breakdown": [
+        "iranian oil sanctions"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=iranian+oil&tz=420",
+      "news_page_token": "Vf4TfHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm4bk8RFqXmLPP2g_Js_BJD5PNK94sh8rge8ech8DtbTPRA-AHUfIXY",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Vf4TfHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm4bk8RFqXmLPP2g_Js_BJD5PNK94sh8rge8ech8DtbTPRA-AHUfIXY"
+    },
+    {
+      "query": "chandi price today",
+      "start_timestamp": 1774145400,
+      "end_timestamp": 1774182000,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "trend_breakdown": [
+        "चांदी का भाव आज",
+        "aaj ka chandi ka bhav",
+        "सोना चांदी आज का भाव"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=chandi+price+today&tz=420",
+      "news_page_token": "PJPqq3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7z8-oWpeYt8vRD4mdkIvhHCw6gyD9Mng_hAwDqch7g",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=PJPqq3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7z8-oWpeYt8vRD4mdkIvhHCw6gyD9Mng_hAwDqch7g"
+    },
+    {
+      "query": "ellyse perry",
+      "start_timestamp": 1774136400,
+      "end_timestamp": 1774144200,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 900,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ellyse+perry&tz=420",
+      "news_page_token": "bWu7mnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh6uON9FqXmLPP0AyTcLkw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=bWu7mnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh6uON9FqXmLPP0AyTcLkw"
+    },
+    {
+      "query": "nabil gabol daughter",
+      "start_timestamp": 1774120800,
+      "end_timestamp": 1774153200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=nabil+gabol+daughter&tz=420",
+      "news_page_token": "vr9513ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7ni5sWpeYt8vQDANSNDOk",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=vr9513ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7ni5sWpeYt8vQDANSNDOk"
+    },
+    {
+      "query": "arad",
+      "start_timestamp": 1774129800,
+      "end_timestamp": 1774150200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 10,
+          "name": "Law and Government"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=arad&tz=420",
+      "news_page_token": "k4Rq1Hica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu6Xjm2LivIXefpB-DwW7drIfO4pJ5xR-Pf_ZaGol_teiMLXuu2JzOd6tvk2hA8A7jcvtw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=k4Rq1Hica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu6Xjm2LivIXefpB-DwW7drIfO4pJ5xR-Pf_ZaGol_teiMLXuu2JzOd6tvk2hA8A7jcvtw"
+    },
+    {
+      "query": "rvunl",
+      "start_timestamp": 1774099800,
+      "end_timestamp": 1774110600,
+      "active": false,
+      "search_volume": 2000,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "trend_breakdown": [
+        "rvunl result"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=rvunl&tz=420",
+      "news_page_token": "JMmidXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRja1XV8WpeYt8vSD8HnUhbwgfADAZBFN",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=JMmidXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRja1XV8WpeYt8vSD8HnUhbwgfADAZBFN"
+    },
+    {
+      "query": "उस्ताद भगत सिंह",
+      "start_timestamp": 1774164000,
+      "end_timestamp": 1774168200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%89%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A6+%E0%A4%AD%E0%A4%97%E0%A4%A4+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9&tz=420",
+      "news_page_token": "37aIf3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRs4nKS8XZWQu8vSD8HnUkt1R-IY_s5H53PdnvULmc964sQjCBwDb8CSQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=37aIf3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRs4nKS8XZWQu8vSD8HnUkt1R-IY_s5H53PdnvULmc964sQjCBwDb8CSQ"
+    },
+    {
+      "query": "rcb tickets 2026",
+      "start_timestamp": 1774151400,
+      "end_timestamp": 1774159800,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        },
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=rcb+tickets+2026&tz=420",
+      "news_page_token": "u127hXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7pjTGLUvMWefpB-dyN7Sj838dvIfN5BPZfhfAButsd_A",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=u127hXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7pjTGLUvMWefpB-dyN7Sj838dvIfN5BPZfhfAButsd_A"
+    },
+    {
+      "query": "sanjay dutt",
+      "start_timestamp": 1774108200,
+      "end_timestamp": 1774130400,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "dhurandhar the revenge cast"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sanjay+dutt&tz=420",
+      "news_page_token": "TqmzEHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRu6TiScWpeYtCg2G8ptuvkHhQ-U9_VDlYXwe6R3pKPKv5kch8zlTnsxC4d-4sQhFv-Tr_yj6DVZno_BXRVui8Mtk1SB8AIkCTT8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TqmzEHica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRu6TiScWpeYtCg2G8ptuvkHhQ-U9_VDlYXwe6R3pKPKv5kch8zlTnsxC4d-4sQhFv-Tr_yj6DVZno_BXRVui8Mtk1SB8AIkCTT8"
+    },
+    {
+      "query": "ईरान युद्ध डिएगो गार्सिया",
+      "start_timestamp": 1774141800,
+      "end_timestamp": 1774150800,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%88%E0%A4%B0%E0%A4%BE%E0%A4%A8+%E0%A4%AF%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7+%E0%A4%A1%E0%A4%BF%E0%A4%8F%E0%A4%97%E0%A5%8B+%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE&tz=420",
+      "news_page_token": "WTL7uXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu6GbSsXZWQu8vQDANKSDLo",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WTL7uXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu6GbSsXZWQu8vQDANKSDLo"
+    },
+    {
+      "query": "sydney fc vs newcastle jets",
+      "start_timestamp": 1774152600,
+      "end_timestamp": 1774159800,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sydney+fc+vs+newcastle+jets&tz=420",
+      "news_page_token": "8XTPuHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu5veucWpeYt8vSD8neX30fhK4jKQfgAI9cXbQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=8XTPuHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu5veucWpeYt8vSD8neX30fhK4jKQfgAI9cXbQ"
+    },
+    {
+      "query": "ओप्पो मोबाइल 5g",
+      "start_timestamp": 1774143000,
+      "end_timestamp": 1774154400,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 18,
+          "name": "Technology"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%93%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A5%8B+%E0%A4%AE%E0%A5%8B%E0%A4%AC%E0%A4%BE%E0%A4%87%E0%A4%B2+5g&tz=420",
+      "news_page_token": "9Y92inica1xTlFpYmlpcEp-SWJI4afJ5BgYGRq4Zy70WZWQu8vSD8LnVd--F8AHDGRId",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=9Y92inica1xTlFpYmlpcEp-SWJI4afJ5BgYGRq4Zy70WZWQu8vSD8LnVd--F8AHDGRId"
+    },
+    {
+      "query": "primera división",
+      "start_timestamp": 1774114800,
+      "end_timestamp": 1774127400,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=primera+divisi%C3%B3n&tz=420",
+      "news_page_token": "2fe5qXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu4FpcyLUosXefpB-Dz6qyKQ-dypb34h87nOnJyGol71-zIU9XUChSj8Y5feoui_Kb8YwgcAD_s1cA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=2fe5qXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu4FpcyLUosXefpB-Dz6qyKQ-dypb34h87nOnJyGol71-zIU9XUChSj8Y5feoui_Kb8YwgcAD_s1cA"
+    },
+    {
+      "query": "bill gates climate change",
+      "start_timestamp": 1774108200,
+      "end_timestamp": 1774132800,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=bill+gates+climate+change&tz=420",
+      "news_page_token": "EIjqlnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu73E9oWpeYt8vQDANRZDOI",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=EIjqlnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu73E9oWpeYt8vQDANRZDOI"
+    },
+    {
+      "query": "pawan kumar chamling",
+      "start_timestamp": 1774173600,
+      "end_timestamp": 1774176000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 14,
+          "name": "Politics"
+        },
+        {
+          "id": 10,
+          "name": "Law and Government"
+        }
+      ],
+      "trend_breakdown": [
+        "longest serving pm of india"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=pawan+kumar+chamling&tz=420",
+      "news_page_token": "y95YBXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh6jiLZFqXmLPP0Ay_4L7g",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=y95YBXica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh6jiLZFqXmLPP0Ay_4L7g"
+    },
+    {
+      "query": "tazmin brits",
+      "start_timestamp": 1774146600,
+      "end_timestamp": 1774150200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 800,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=tazmin+brits&tz=420",
+      "news_page_token": "P9K0DHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu6DUx4vSs1bFBoM5S-atgTCBwDXGxMw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=P9K0DHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu6DUx4vSs1bFBoM5S-atgTCBwDXGxMw"
+    },
+    {
+      "query": "jensen huang",
+      "start_timestamp": 1774111800,
+      "end_timestamp": 1774141200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        },
+        {
+          "id": 15,
+          "name": "Science"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=jensen+huang&tz=420",
+      "news_page_token": "aAoWWXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh51peJFqXmLPP0gfK6HkRwo_D9KjMh8btcnjyB8AHsvHFs",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=aAoWWXica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh51peJFqXmLPP0gfK6HkRwo_D9KjMh8btcnjyB8AHsvHFs"
+    },
+    {
+      "query": "watford vs leicester city",
+      "start_timestamp": 1774102200,
+      "end_timestamp": 1774114800,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=watford+vs+leicester+city&tz=420",
+      "news_page_token": "Zz40C3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu4Sm7JFqXmLPP0AzPYMAw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Zz40C3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu4Sm7JFqXmLPP0AzPYMAw"
+    },
+    {
+      "query": "ram gopal varma",
+      "start_timestamp": 1774108800,
+      "end_timestamp": 1774129800,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ram+gopal+varma&tz=420",
+      "news_page_token": "eIF6o3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu4rc_wWpeYt8vQDANI-DJs",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=eIF6o3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu4rc_wWpeYt8vQDANI-DJs"
+    },
+    {
+      "query": "daniil medvedev",
+      "start_timestamp": 1774121400,
+      "end_timestamp": 1774126800,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 400,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "rei sakamoto"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=daniil+medvedev&tz=420",
+      "news_page_token": "MPuIJnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRh7RNIZFqXmLPP2gfP0L15H53K-U3ZD5nE9MvVDkS-q_oOhXrHiLIr--8QAyn4vdZT6EDwB7UjL2",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=MPuIJnica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRh7RNIZFqXmLPP2gfP0L15H53K-U3ZD5nE9MvVDkS-q_oOhXrHiLIr--8QAyn4vdZT6EDwB7UjL2"
+    },
+    {
+      "query": "raw",
+      "start_timestamp": 1774106400,
+      "end_timestamp": 1774141200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=raw&tz=420",
+      "news_page_token": "ezv8yHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu6Th7ctSs1b5OkH5R9x_ozM5zoUtwCFf6K6H0V9zTU_FH7TzTfIfB6dqDAU-a-_slDkuc_Xo8hvT1wC4QMAKIpB4Q",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=ezv8yHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu6Th7ctSs1b5OkH5R9x_ozM5zoUtwCFf6K6H0V9zTU_FH7TzTfIfB6dqDAU-a-_slDkuc_Xo8hvT1wC4QMAKIpB4Q"
+    },
+    {
+      "query": "motogp",
+      "start_timestamp": 1774111200,
+      "end_timestamp": 1774128600,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=motogp&tz=420",
+      "news_page_token": "3uosEXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh6TA-8XpeYt8vSD8rU7Q1D46sWeyHzujdMuo_C_Fj1F4WtlvkXRryZrBeEDAMvyLcA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=3uosEXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh6TA-8XpeYt8vSD8rU7Q1D46sWeyHzujdMuo_C_Fj1F4WtlvkXRryZrBeEDAMvyLcA"
+    },
+    {
+      "query": "beef",
+      "start_timestamp": 1774104000,
+      "end_timestamp": 1774123800,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=beef&tz=420",
+      "news_page_token": "r-8wWXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRm65NecWpeYtCg2G8HnUbigg87mP-kSg8CV-XkDh_5XmQeG_tXVDMY8_zx5F_jsfivlcM0wbUeQPH1JF0c8TW44iH6Z1DZnPWSBqi8xnv1UWAOEDANouU0U",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=r-8wWXica1xTlFpYmlpcEp-SWJI4b_J5BgYGRm65NecWpeYtCg2G8HnUbigg87mP-kSg8CV-XkDh_5XmQeG_tXVDMY8_zx5F_jsfivlcM0wbUeQPH1JF0c8TW44iH6Z1DZnPWSBqi8xnv1UWAOEDANouU0U"
+    },
+    {
+      "query": "एलपीजी गैस न्यूज़",
+      "start_timestamp": 1774158600,
+      "end_timestamp": 1774162200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%8F%E0%A4%B2%E0%A4%AA%E0%A5%80%E0%A4%9C%E0%A5%80+%E0%A4%97%E0%A5%88%E0%A4%B8+%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9C%E0%A4%BC&tz=420",
+      "news_page_token": "8Kk1JHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRm5fa-1FGZmLPP2g_Ad5a5H5PNxBJyB8APWdFuU",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=8Kk1JHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRm5fa-1FGZmLPP2g_Ad5a5H5PNxBJyB8APWdFuU"
+    },
+    {
+      "query": "ranbir kapoor",
+      "start_timestamp": 1774121400,
+      "end_timestamp": 1774136400,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ranbir+kapoor&tz=420",
+      "news_page_token": "Am0h-3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh7FiuRFqXmLPP0gfO6KuatR-E033yDzeYzqX6HIp3I7osjrfUaR51Eu2wPhAwDIGS4-",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Am0h-3ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh7FiuRFqXmLPP0gfO6KuatR-E033yDzeYzqX6HIp3I7osjrfUaR51Eu2wPhAwDIGS4-"
+    },
+    {
+      "query": "where to watch brighton & hove albion f.c. vs liverpool f.c.",
+      "start_timestamp": 1774098000,
+      "end_timestamp": 1774107000,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "brighton & hove albion f.c. vs liverpool f.c. standings",
+        "epl results",
+        "milos kerkez",
+        "arne slot"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=where+to+watch+brighton+%26+hove+albion+f.c.+vs+liverpool+f.c.&tz=420",
+      "news_page_token": "P9nq0nica1xTlFpYmlpcEp-SWJI4e_J5BgYGRu7ie9yLUvMWefpB-W9P8aDws9n5UPjzrJpR-PU6c1H4STKfkPk86koPUfi6kiYofJP4JhS-6tRzKHzFj4kQPgAKKEFq",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=P9nq0nica1xTlFpYmlpcEp-SWJI4e_J5BgYGRu7ie9yLUvMWefpB-W9P8aDws9n5UPjzrJpR-PU6c1H4STKfkPk86koPUfi6kiYofJP4JhS-6tRzKHzFj4kQPgAKKEFq"
+    },
+    {
+      "query": "बीटीएस",
+      "start_timestamp": 1774111200,
+      "end_timestamp": 1774123200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%AC%E0%A5%80%E0%A4%9F%E0%A5%80%E0%A4%8F%E0%A4%B8&tz=420",
+      "news_page_token": "CdsRj3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7g4opFGZmLPP0AzY4MGQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=CdsRj3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7g4opFGZmLPP0AzY4MGQ"
+    },
+    {
+      "query": "nia sharma",
+      "start_timestamp": 1774113600,
+      "end_timestamp": 1774130400,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=nia+sharma&tz=420",
+      "news_page_token": "LSEIOnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7u-xGLUvMWefpB-Nz7y3dD-AC_XhIu",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=LSEIOnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7u-xGLUvMWefpB-Nz7y3dD-AC_XhIu"
+    },
+    {
+      "query": "juventus",
+      "start_timestamp": 1774125600,
+      "end_timestamp": 1774133400,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 300,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "trend_breakdown": [
+        "juventus fc"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=juventus&tz=420",
+      "news_page_token": "uGE2JHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRm6zOeqLMksWefpB-DxmGUdR-BaSDMh87i8Fe1H47c_5kPmc7fu2oOp3X4DCN5c_iaJfteUFqnziWQgfAGPnPcA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=uGE2JHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRm6zOeqLMksWefpB-DxmGUdR-BaSDMh87i8Fe1H47c_5kPmc7fu2oOp3X4DCN5c_iaJfteUFqnziWQgfAGPnPcA"
+    },
+    {
+      "query": "earthquake sikkim",
+      "start_timestamp": 1774140000,
+      "end_timestamp": 1774146600,
+      "active": false,
+      "search_volume": 1000,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 20,
+          "name": "Climate"
+        }
+      ],
+      "trend_breakdown": [
+        "earthquake"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=earthquake+sikkim&tz=420",
+      "news_page_token": "FX8JW3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu6fsRKLUvMWefpB-DyGXDnIfO4HfKUo_J8GlijqpfdHocgvtFiFIq945zwKXytAEtU-hn_IfK5zpzUgfAAtjjzG",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=FX8JW3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu6fsRKLUvMWefpB-DyGXDnIfO4HfKUo_J8GlijqpfdHocgvtFiFIq945zwKXytAEtU-hn_IfK5zpzUgfAAtjjzG"
+    },
+    {
+      "query": "kayla reyneke",
+      "start_timestamp": 1774148400,
+      "end_timestamp": 1774151400,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 400,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        },
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=kayla+reyneke&tz=420",
+      "news_page_token": "urAg9nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7Wv4aLUvMWefpB-NyLpi2B8AG9aRIK",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=urAg9nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7Wv4aLUvMWefpB-NyLpi2B8AG9aRIK"
+    },
+    {
+      "query": "peaky blinders the immortal man movie",
+      "start_timestamp": 1774152600,
+      "end_timestamp": 1774156800,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "the immortal man",
+        "cillian murphy"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=peaky+blinders+the+immortal+man+movie&tz=420",
+      "news_page_token": "PGnxxHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu5TOzcvSs1b5OkH4fMY-YYj87lPuO9A4efsNkLh8yi8QtHPs_YJijzjSVkIHwDHry1T",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=PGnxxHica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu5TOzcvSs1b5OkH4fMY-YYj87lPuO9A4efsNkLh8yi8QtHPs_YJijzjSVkIHwDHry1T"
+    },
+    {
+      "query": "navratri colours 2026",
+      "start_timestamp": 1774145400,
+      "end_timestamp": 1774153800,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 8,
+          "name": "Hobbies and Leisure"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=navratri+colours+2026&tz=420",
+      "news_page_token": "LNyBe3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm62iSWLUvMWhQYDAMvPC_k",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=LNyBe3ica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm62iSWLUvMWhQYDAMvPC_k"
+    },
+    {
+      "query": "pirates of the caribbean",
+      "start_timestamp": 1774105200,
+      "end_timestamp": 1774135200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=pirates+of+the+caribbean&tz=420",
+      "news_page_token": "uQqvc3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh4RvVWLUvMWhQZD-Nzzn6ZC-AC4RRHy",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=uQqvc3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh4RvVWLUvMWhQZD-Nzzn6ZC-AC4RRHy"
+    },
+    {
+      "query": "who is dawood ibrahim",
+      "start_timestamp": 1774119000,
+      "end_timestamp": 1774135200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=who+is+dawood+ibrahim&tz=420",
+      "news_page_token": "J2tiXXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu4L3VqLUvMWefpB-ce75yDzud4fDECRb725GoX_KMwOhf-w4TSEDwBlTyqL",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=J2tiXXica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu4L3VqLUvMWefpB-ce75yDzud4fDECRb725GoX_KMwOhf-w4TSEDwBlTyqL"
+    },
+    {
+      "query": "मकर राशिफल",
+      "start_timestamp": 1774141800,
+      "end_timestamp": 1774153800,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%AE%E0%A4%95%E0%A4%B0+%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%AB%E0%A4%B2&tz=420",
+      "news_page_token": "WI1vHnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm6LlSmLMjIXefpB-DzaRyQhfAC4UxFE",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=WI1vHnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm6LlSmLMjIXefpB-DzaRyQhfAC4UxFE"
+    },
+    {
+      "query": "ashok kharat viral cctv",
+      "start_timestamp": 1774123200,
+      "end_timestamp": 1774152000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ashok+kharat+viral+cctv&tz=420",
+      "news_page_token": "uATXMXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu4LZuaLUvMWefpB-DxSGxKR-dxHLjyE8AEDWBf1",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=uATXMXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu4LZuaLUvMWefpB-DxSGxKR-dxHLjyE8AEDWBf1"
+    },
+    {
+      "query": "आदिती तटकरे",
+      "start_timestamp": 1774131600,
+      "end_timestamp": 1774146600,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 10,
+          "name": "Law and Government"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%A4%E0%A5%80+%E0%A4%A4%E0%A4%9F%E0%A4%95%E0%A4%B0%E0%A5%87&tz=420",
+      "news_page_token": "lx6lYXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu4bbiKLMjIXefpB-eum9kP4AL3OEfo",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=lx6lYXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu4bbiKLMjIXefpB-eum9kP4AL3OEfo"
+    },
+    {
+      "query": "माता रानी के भजन",
+      "start_timestamp": 1774140000,
+      "end_timestamp": 1774146600,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "bhajan",
+        "भजन"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A4%BE+%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80+%E0%A4%95%E0%A5%87+%E0%A4%AD%E0%A4%9C%E0%A4%A8&tz=420",
+      "news_page_token": "npHoZHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRu4z1pWLUvMWefpB-Dy6wTkofM2CVhS-6uQnyHzOUjYeZD73OrVFKHyQ-RmZCP3mvxxQ-Mylkih8s_CvKHy1B9kofFYOCxS-UcY3FD6DmgCEDwCkz0_x",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=npHoZHica1xTlFpYmlpcEp-SWJI4b_J5BgYGRu4z1pWLUvMWefpB-Dy6wTkofM2CVhS-6uQnyHzOUjYeZD73OrVFKHyQ-RmZCP3mvxxQ-Mylkih8s_CvKHy1B9kofFYOCxS-UcY3FD6DmgCEDwCkz0_x"
+    },
+    {
+      "query": "sydney sweeney",
+      "start_timestamp": 1774122000,
+      "end_timestamp": 1774131600,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sydney+sweeney&tz=420",
+      "news_page_token": "FPYLoHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm6pE-sXpeYt8vSD8nmP30fm86g82Y3MZzv7PxOZzxF_7juEDwDhMiSq",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=FPYLoHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm6pE-sXpeYt8vSD8nmP30fm86g82Y3MZzv7PxOZzxF_7juEDwDhMiSq"
+    },
+    {
+      "query": "ben shelton",
+      "start_timestamp": 1774141800,
+      "end_timestamp": 1774147200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ben+shelton&tz=420",
+      "news_page_token": "ywuSHHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRh7p2PZFqXmLPP0gfG6L5nAU_s-s3Sj8V8puyHweQ6tQFL5M-1YIHwDKDicL",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=ywuSHHica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRh7p2PZFqXmLPP0gfG6L5nAU_s-s3Sj8V8puyHweQ6tQFL5M-1YIHwDKDicL"
+    },
+    {
+      "query": "tamanna bhatia",
+      "start_timestamp": 1774119000,
+      "end_timestamp": 1774131600,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        },
+        {
+          "id": 2,
+          "name": "Beauty and Fashion"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=tamanna+bhatia&tz=420",
+      "news_page_token": "mpaSKHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh7D2TyLUvMWefpB-Nx_e4pR-CeUtqPwv77iQ-bziBS5QvgAqrwigA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=mpaSKHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh7D2TyLUvMWefpB-Nx_e4pR-CeUtqPwv77iQ-bziBS5QvgAqrwigA"
+    },
+    {
+      "query": "premier league football",
+      "start_timestamp": 1774098000,
+      "end_timestamp": 1774141200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=premier+league+football&tz=420",
+      "news_page_token": "VEQr5Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRh7zCdcWpeYt8vSD8LkL6_JR-IIVu5D5PKpHr6DIf-yMROHXbGtEUa92PQ-Fb6p_AUV98T1uFP6m954o6rVen0WRz2bng_ABqwRJ6g",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=VEQr5Hica1xTlFpYmlpcEp-SWJI4Z_J5BgYGRh7zCdcWpeYt8vSD8LkL6_JR-IIVu5D5PKpHr6DIf-yMROHXbGtEUa92PQ-Fb6p_AUV98T1uFP6m954o6rVen0WRz2bng_ABqwRJ6g"
+    },
+    {
+      "query": "alexander zverev",
+      "start_timestamp": 1774144800,
+      "end_timestamp": 1774149000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 300,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=alexander+zverev&tz=420",
+      "news_page_token": "dQdi9Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu6fWbsXpeYt8vSD8l8puyHzefRif6PwpWPbUfiGVqEQPgDEnSIK",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=dQdi9Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu6fWbsXpeYt8vSD8l8puyHzefRif6PwpWPbUfiGVqEQPgDEnSIK"
+    },
+    {
+      "query": "ustaad bhagat singh movie",
+      "start_timestamp": 1774152000,
+      "end_timestamp": 1774155600,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "ustaad bhagat singh budget",
+        "telugu movies"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ustaad+bhagat+singh+movie&tz=420",
+      "news_page_token": "Q-ObC3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRs41GRqLUvMWefpB-U9SXiLzeczi7ZD53O37vqLIG_7MRtF_48YiFPVNN9-gqGf4I4_C12T3Q1G_TPw9irz2rpsofFk7XhT12xh1UN0TnonC19HxhPABZpdY_Q",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Q-ObC3ica1xTlFpYmlpcEp-SWJI4f_J5BgYGRs41GRqLUvMWefpB-U9SXiLzeczi7ZD53O37vqLIG_7MRtF_48YiFPVNN9-gqGf4I4_C12T3Q1G_TPw9irz2rpsofFk7XhT12xh1UN0TnonC19HxhPABZpdY_Q"
+    },
+    {
+      "query": "once upon a time in hollywood",
+      "start_timestamp": 1774123200,
+      "end_timestamp": 1774135200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=once+upon+a+time+in+hollywood&tz=420",
+      "news_page_token": "ihLqNnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRq4fl1YuSs1b5OkH4bO_DHgK4QMA3Z4Thg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=ihLqNnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRq4fl1YuSs1b5OkH4bO_DHgK4QMA3Z4Thg"
+    },
+    {
+      "query": "iwo baraniewski",
+      "start_timestamp": 1774128000,
+      "end_timestamp": 1774133400,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 400,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=iwo+baraniewski&tz=420",
+      "news_page_token": "D8rVWHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu70648WpeYtCg0GANRqDQ4",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=D8rVWHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu70648WpeYtCg0GANRqDQ4"
+    },
+    {
+      "query": "laxman sivaramakrishnan",
+      "start_timestamp": 1774156200,
+      "end_timestamp": 1774159200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=laxman+sivaramakrishnan&tz=420",
+      "news_page_token": "I5dh4nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh4290WLUvMWefpB-Vx_41D4HEIfUPicQRchfAB_5hvC",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=I5dh4nica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh4290WLUvMWefpB-Vx_41D4HEIfUPicQRchfAB_5hvC"
+    },
+    {
+      "query": "play india",
+      "start_timestamp": 1774153200,
+      "end_timestamp": 1774157400,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=play+india&tz=420",
+      "news_page_token": "mTz2dHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu6L9cGLUvMWefpB-ByRkVYQPgDA_BGG",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=mTz2dHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu6L9cGLUvMWefpB-ByRkVYQPgDA_BGG"
+    },
+    {
+      "query": "धुरंधर फिल्म",
+      "start_timestamp": 1774106400,
+      "end_timestamp": 1774112400,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%A7%E0%A5%81%E0%A4%B0%E0%A4%82%E0%A4%A7%E0%A4%B0+%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AE&tz=420",
+      "news_page_token": "VfyiD3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRs4bNxYtyshc5OkH4fMovlNE4RtmmSPzOZ-kvESRN463RuZzL3u0EIV_Ueg3Cv9hw10U_YzZdSjyN192Q_gAVRFAnA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=VfyiD3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRs4bNxYtyshc5OkH4fMovlNE4RtmmSPzOZ-kvESRN463RuZzL3u0EIV_Ueg3Cv9hw10U_YzZdSjyN192Q_gAVRFAnA"
+    },
+    {
+      "query": "pathankot",
+      "start_timestamp": 1774124400,
+      "end_timestamp": 1774134000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 19,
+          "name": "Travel and Transportation"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=pathankot&tz=420",
+      "news_page_token": "_SCdQnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh7j76qLUvMWefpB-Nzbs34i83nE579E4Rv_rERRfyiYE0WeY_dqFHnvZzIQPgDfwi4V",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_SCdQnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh7j76qLUvMWefpB-Nzbs34i83nE579E4Rv_rERRfyiYE0WeY_dqFHnvZzIQPgDfwi4V"
+    },
+    {
+      "query": "modi iran",
+      "start_timestamp": 1774129200,
+      "end_timestamp": 1774134000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 400,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=modi+iran&tz=420",
+      "news_page_token": "TlyUp3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh69OMdFqXmLPP2gfOPQdRA-AK5TEP8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TlyUp3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh69OMdFqXmLPP2gfOPQdRA-AK5TEP8"
+    },
+    {
+      "query": "charlotte vs ny red bulls",
+      "start_timestamp": 1774144800,
+      "end_timestamp": 1774149600,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=charlotte+vs+ny+red+bulls&tz=420",
+      "news_page_token": "BEh-2Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu4M65mLUvMWefpB-bGv3kH4AMBbEms",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=BEh-2Xica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu4M65mLUvMWefpB-bGv3kH4AMBbEms"
+    },
+    {
+      "query": "georgia voll",
+      "start_timestamp": 1774133400,
+      "end_timestamp": 1774137000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 1000,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=georgia+voll&tz=420",
+      "news_page_token": "vbrN5nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7jw-yLUvMWhQZD-Fw_9kdC-AC8MhIp",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=vbrN5nica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7jw-yLUvMWhQZD-Fw_9kdC-AC8MhIp"
+    },
+    {
+      "query": "mavericks vs clippers",
+      "start_timestamp": 1774150800,
+      "end_timestamp": 1774155000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=mavericks+vs+clippers&tz=420",
+      "news_page_token": "ZqglxXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu669WsWpeYt8vSD8gPuroLwAcxdEqo",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=ZqglxXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu669WsWpeYt8vSD8gPuroLwAcxdEqo"
+    },
+    {
+      "query": "sunrise",
+      "start_timestamp": 1774139400,
+      "end_timestamp": 1774143600,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sunrise&tz=420",
+      "news_page_token": "pf3l4Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu5HGQGLUvMWefpB-XZej5H5PDpSZSjyM9NcUOWrvqHwNc-wofClpzsh8zmuqMgg87lu7jCA8AGisjcp",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=pf3l4Xica1xTlFpYmlpcEp-SWJI4c_J5BgYGRu5HGQGLUvMWefpB-XZej5H5PDpSZSjyM9NcUOWrvqHwNc-wofClpzsh8zmuqMgg87lu7jCA8AGisjcp"
+    },
+    {
+      "query": "luke riley",
+      "start_timestamp": 1774131000,
+      "end_timestamp": 1774136400,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=luke+riley&tz=420",
+      "news_page_token": "e_DA0Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu6G1mmLUvMWefpB-FzfJ-5A5nMnbI2D8AEjshhk",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=e_DA0Xica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu6G1mmLUvMWefpB-FzfJ-5A5nMnbI2D8AEjshhk"
+    },
+    {
+      "query": "ananya bangar",
+      "start_timestamp": 1774119000,
+      "end_timestamp": 1774129200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        },
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ananya+bangar&tz=420",
+      "news_page_token": "H7LlMnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm7u_phFqXmLPP2g_HI1WwgfAK-eEMo",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=H7LlMnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRm7u_phFqXmLPP2g_HI1WwgfAK-eEMo"
+    },
+    {
+      "query": "shah rukh khan",
+      "start_timestamp": 1774110000,
+      "end_timestamp": 1774132200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        },
+        {
+          "id": 8,
+          "name": "Hobbies and Leisure"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=shah+rukh+khan&tz=420",
+      "news_page_token": "QMPTjXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRh4tvb2LUvMWefpB-NxNN9-g8I_t3YrM57xxYxEyn0fGIgNF_ZNP2ijyUpN2o8iXXOGH8AFMWDUK",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=QMPTjXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRh4tvb2LUvMWefpB-NxNN9-g8I_t3YrM57xxYxEyn0fGIgNF_ZNP2ijyUpN2o8iXXOGH8AFMWDUK"
+    },
+    {
+      "query": "odisha fc",
+      "start_timestamp": 1774104600,
+      "end_timestamp": 1774126800,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=odisha+fc&tz=420",
+      "news_page_token": "8WncTnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7JfvMWpeYt8vQDAM-1DFw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=8WncTnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7JfvMWpeYt8vQDAM-1DFw"
+    },
+    {
+      "query": "michael page",
+      "start_timestamp": 1774130400,
+      "end_timestamp": 1774135800,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=michael+page&tz=420",
+      "news_page_token": "kkRm_nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu68mL5FqXmLPP0AzmgMNQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=kkRm_nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu68mL5FqXmLPP0AzmgMNQ"
+    },
+    {
+      "query": "john wick",
+      "start_timestamp": 1774116600,
+      "end_timestamp": 1774131000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=john+wick&tz=420",
+      "news_page_token": "CxF9JHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh4VI_5FqXmLPP2gfPMrqHzN-S-R-VyepxWQ-RyTVOQhfABJMSCJ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=CxF9JHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh4VI_5FqXmLPP2gfPMrqHzN-S-R-VyepxWQ-RyTVOQhfABJMSCJ"
+    },
+    {
+      "query": "ufc fight night",
+      "start_timestamp": 1774128000,
+      "end_timestamp": 1774139400,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ufc+fight+night&tz=420",
+      "news_page_token": "6_i-pHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu5JKo8XpeYt8vSD8Lm-T9yBzOexsPiOzOdOv_4IwgcA2GIelA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=6_i-pHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu5JKo8XpeYt8vSD8Lm-T9yBzOexsPiOzOdOv_4IwgcA2GIelA"
+    },
+    {
+      "query": "karan arjun",
+      "start_timestamp": 1774110000,
+      "end_timestamp": 1774122000,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=karan+arjun&tz=420",
+      "news_page_token": "R7ppxnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5DenGLUvMWefoBAM6cDCs",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=R7ppxnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5DenGLUvMWefoBAM6cDCs"
+    },
+    {
+      "query": "steinmeier",
+      "start_timestamp": 1774140600,
+      "end_timestamp": 1774147200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 14,
+          "name": "Politics"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=steinmeier&tz=420",
+      "news_page_token": "SgKYQXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm69jPBFKamLPP0gfK4_C5Yi87kzThmj8MWO3Ubhd_y6DOEDALPeI70",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=SgKYQXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm69jPBFKamLPP0gfK4_C5Yi87kzThmj8MWO3Ubhd_y6DOEDALPeI70"
+    },
+    {
+      "query": "splitsvilla season 16",
+      "start_timestamp": 1774119600,
+      "end_timestamp": 1774125000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=splitsvilla+season+16&tz=420",
+      "news_page_token": "bVISvnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRq7rLyoWpeYt8vQDANXVDRM",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=bVISvnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRq7rLyoWpeYt8vQDANXVDRM"
+    },
+    {
+      "query": "rockets vs heat",
+      "start_timestamp": 1774149600,
+      "end_timestamp": 1774153200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=rockets+vs+heat&tz=420",
+      "news_page_token": "e7t8vHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu7PTQWLUvMWefpB-VnH_6Hwi1POQfgALr0Y0A",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=e7t8vHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu7PTQWLUvMWefpB-VnH_6Hwi1POQfgALr0Y0A"
+    },
+    {
+      "query": "giovanni simeone",
+      "start_timestamp": 1774117200,
+      "end_timestamp": 1774127400,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=giovanni+simeone&tz=420",
+      "news_page_token": "__H94nica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm7BiOpFqcWLPP2g_Bm_L6Pw0-5NQebz6LbvQ5GXa74O4QMAx3sjdw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=__H94nica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRm7BiOpFqcWLPP2g_Bm_L6Pw0-5NQebz6LbvQ5GXa74O4QMAx3sjdw"
+    },
+    {
+      "query": "gold price today 22k",
+      "start_timestamp": 1774152000,
+      "end_timestamp": 1774156200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "trend_breakdown": [
+        "gold rate today 18 carat"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=gold+price+today+22k&tz=420",
+      "news_page_token": "p2v-D3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7zH38uSs1bFBoM5T9Mno_Ch8p7-qHKe_oBAC3HII4",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=p2v-D3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7zH38uSs1bFBoM5T9Mno_Ch8p7-qHKe_oBAC3HII4"
+    },
+    {
+      "query": "hamza ali mazari real",
+      "start_timestamp": 1774122600,
+      "end_timestamp": 1774133400,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=hamza+ali+mazari+real&tz=420",
+      "news_page_token": "YD2zrHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu43N1YsSs1b5OkH5T9f3ITM53p_MADCBwBFDxmO",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=YD2zrHica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu43N1YsSs1b5OkH5T9f3ITM53p_MADCBwBFDxmO"
+    },
+    {
+      "query": "cars",
+      "start_timestamp": 1774155000,
+      "end_timestamp": 1774158600,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Autos and Vehicles"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=cars&tz=420",
+      "news_page_token": "m8Z8-nica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGHnNnyUWpeYtCg6F8ET1DFL741z3IfO6Z-0uR-VyvX15HkTfefQiF373TCoX_pvsXCv-nEIp53Pfc1FD4H_4eR3GPWc5eFPnvl-ej8DmuHEP1T3wICl_btx2Fr7WtA8IHAKIIaRs",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=m8Z8-nica1xTlFpYmlpcEp-SWJJ4h0Fw8nkGBgZGHnNnyUWpeYtCg6F8ET1DFL741z3IfO6Z-0uR-VyvX15HkTfefQiF373TCoX_pvsXCv-nEIp53Pfc1FD4H_4eR3GPWc5eFPnvl-ej8DmuHEP1T3wICl_btx2Fr7WtA8IHAKIIaRs"
+    },
+    {
+      "query": "são paulo vs palmeiras",
+      "start_timestamp": 1774144800,
+      "end_timestamp": 1774152000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=s%C3%A3o+paulo+vs+palmeiras&tz=420",
+      "news_page_token": "i0goc3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu5Qt_WLCkoWefpB-DzihfIQPgC3UxEO",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=i0goc3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu5Qt_WLCkoWefpB-DzihfIQPgC3UxEO"
+    },
+    {
+      "query": "hugo ekitike",
+      "start_timestamp": 1774098000,
+      "end_timestamp": 1774103400,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=hugo+ekitike&tz=420",
+      "news_page_token": "MbtD4Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh7VqecWpeYt8vSD8LmTZD6h8IvvcSPzeXQlTZD5HPbqSRA-AI11IOY",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=MbtD4Hica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh7VqecWpeYt8vSD8LmTZD6h8IvvcSPzeXQlTZD5HPbqSRA-AI11IOY"
+    },
+    {
+      "query": "dhurandhar real hero",
+      "start_timestamp": 1774125000,
+      "end_timestamp": 1774132800,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=dhurandhar+real+hero&tz=420",
+      "news_page_token": "dFN09Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh6V1O-LUvMWefpB-NxNN99A-ADG6hLC",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=dFN09Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh6V1O-LUvMWefpB-NxNN99A-ADG6hLC"
+    },
+    {
+      "query": "mustafa ahmed",
+      "start_timestamp": 1774123800,
+      "end_timestamp": 1774133400,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=mustafa+ahmed&tz=420",
+      "news_page_token": "l_WArnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh6V3WmLUvMWefpB-NytN1dD-ADARxJJ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=l_WArnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh6V3WmLUvMWefpB-NytN1dD-ADARxJJ"
+    },
+    {
+      "query": "raja saab",
+      "start_timestamp": 1774107000,
+      "end_timestamp": 1774111200,
+      "active": false,
+      "search_volume": 500,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=raja+saab&tz=420",
+      "news_page_token": "gxz5JHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7DbMtFqXmLPP2gfPbuOggfAK3yEOE",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=gxz5JHica1xTlFpYmlpcEp-SWJI4afJ5BgYGRh7DbMtFqXmLPP2gfPbuOggfAK3yEOE"
+    },
+    {
+      "query": "spurs vs pacers",
+      "start_timestamp": 1774149600,
+      "end_timestamp": 1774152600,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=spurs+vs+pacers&tz=420",
+      "news_page_token": "GadkyHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5l2V6LUvMWefoBAM78DDg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=GadkyHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu5l2V6LUvMWefoBAM78DDg"
+    },
+    {
+      "query": "chaudhry aslam khan",
+      "start_timestamp": 1774125600,
+      "end_timestamp": 1774132200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "chaudhry aslam"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=chaudhry+aslam+khan&tz=420",
+      "news_page_token": "UjgxjXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu5X86MWpeYt8vSD8DlPiHdD-ADLJhJF",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=UjgxjXica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu5X86MWpeYt8vSD8DlPiHdD-ADLJhJF"
+    },
+    {
+      "query": "21 मार्च 2026 का राशिफल",
+      "start_timestamp": 1774115400,
+      "end_timestamp": 1774119600,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=21+%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9A+2026+%E0%A4%95%E0%A4%BE+%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%AB%E0%A4%B2&tz=420",
+      "news_page_token": "xasNMXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu5bv04tyshc5OkH5dtmG6Pwf5tMQObzKP_6h8LXPiIJ4QMA8tkjpA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=xasNMXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu5bv04tyshc5OkH5dtmG6Pwf5tMQObzKP_6h8LXPiIJ4QMA8tkjpA"
+    },
+    {
+      "query": "coco gauff",
+      "start_timestamp": 1774140000,
+      "end_timestamp": 1774144200,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 200,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=coco+gauff&tz=420",
+      "news_page_token": "1VtYo3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu65UUKLUvMWefpB-d8PdyHzeSRre1HkFwQ0ocirme9Ckd-63B9FXnFzLor8K2U3CB8Aq8Yy4w",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=1VtYo3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu65UUKLUvMWefpB-d8PdyHzeSRre1HkFwQ0ocirme9Ckd-63B9FXnFzLor8K2U3CB8Aq8Yy4w"
+    },
+    {
+      "query": "real dhurandhar",
+      "start_timestamp": 1774127400,
+      "end_timestamp": 1774137000,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=real+dhurandhar&tz=420",
+      "news_page_token": "Dpd_pnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu5dmW8XpeYt8vSD8pdrHUHmc70_GIDM5zFpn4rCV_21E0V_0803KPzFdmshfAA7oDAu",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Dpd_pnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu5dmW8XpeYt8vSD8pdrHUHmc70_GIDM5zFpn4rCV_21E0V_0803KPzFdmshfAA7oDAu"
+    },
+    {
+      "query": "earthquake today",
+      "start_timestamp": 1774106400,
+      "end_timestamp": 1774110600,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 20,
+          "name": "Climate"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=earthquake+today&tz=420",
+      "news_page_token": "_qcqRXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh5DrpxFqXmLPP0gfO6fBpYo_Du655D5XOdOa6DI_-G7jspfi6KfR87ZFcIHAJh1LZY",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=_qcqRXica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh5DrpxFqXmLPP0gfO6fBpYo_Du655D5XOdOa6DI_-G7jspfi6KfR87ZFcIHAJh1LZY"
+    },
+    {
+      "query": "sikkim",
+      "start_timestamp": 1774119600,
+      "end_timestamp": 1774129800,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sikkim&tz=420",
+      "news_page_token": "lD4KC3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu6Z-yQWpeYt8vSD8n_GovJdKrOR-TxGEW0o8luY1iLzuZpfLIPwAeAJJ_c",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=lD4KC3ica1xTlFpYmlpcEp-SWJI4bfJ5BgYGRu6Z-yQWpeYt8vSD8n_GovJdKrOR-TxGEW0o8luY1iLzuZpfLIPwAeAJJ_c"
+    },
+    {
+      "query": "ayesha khan",
+      "start_timestamp": 1774122600,
+      "end_timestamp": 1774132200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=ayesha+khan&tz=420",
+      "news_page_token": "C5LcZnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh7lrJuLUvMWefpB-ULPzVD4-lZfkfncETK9ED4AmMccKw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=C5LcZnica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh7lrJuLUvMWefpB-ULPzVD4-lZfkfncETK9ED4AmMccKw"
+    },
+    {
+      "query": "vancouver",
+      "start_timestamp": 1774124400,
+      "end_timestamp": 1774130400,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=vancouver&tz=420",
+      "news_page_token": "Zir063ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh62naWLUvMWefpB-boxkch87hlhUch8rvkRk5H57GGzA1H42s_EkPlsVV6GED4ARrsrxQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Zir063ica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh62naWLUvMWefpB-boxkch87hlhUch8rvkRk5H57GGzA1H42s_EkPlsVV6GED4ARrsrxQ"
+    },
+    {
+      "query": "ऑर्डर",
+      "start_timestamp": 1774111800,
+      "end_timestamp": 1774116000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%91%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%B0&tz=420",
+      "news_page_token": "OXjpl3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh72hCWLMjIXefpB-dyzVqHw1dsrkPnca0XMUfgLnUMhfABpPCD7",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=OXjpl3ica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRh72hCWLMjIXefpB-dyzVqHw1dsrkPnca0XMUfgLnUMhfABpPCD7"
+    },
+    {
+      "query": "tom cruise",
+      "start_timestamp": 1774122000,
+      "end_timestamp": 1774126800,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=tom+cruise&tz=420",
+      "news_page_token": "OzQ7lnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh7GYtVFqXmLPP2gfMlb3Sh8jUmrkPncHz-3o_BnLShF4QseFUXhT1gI1Q8AiiAt6Q",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=OzQ7lnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh7GYtVFqXmLPP2gfMlb3Sh8jUmrkPncHz-3o_BnLShF4QseFUXhT1gI1Q8AiiAt6Q"
+    },
+    {
+      "query": "vmou",
+      "start_timestamp": 1774147800,
+      "end_timestamp": 1774150200,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 9,
+          "name": "Jobs and Education"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=vmou&tz=420",
+      "news_page_token": "FRvrx3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRq5lM1QWpeYt8vSD8HkkprJC-AC5GhEO",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=FRvrx3ica1xTlFpYmlpcEp-SWJI4afJ5BgYGRq5lM1QWpeYt8vSD8HkkprJC-AC5GhEO"
+    },
+    {
+      "query": "marathi",
+      "start_timestamp": 1774137000,
+      "end_timestamp": 1774141800,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=marathi&tz=420",
+      "news_page_token": "J-5oxHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRh6VivxFqXmLPP0gfK4HyyuR-dybSn8g83mM_z1B4SsaKqHwzfwvovKtt6KY_1p8PYr5tUG8ED4AQ3o4hA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=J-5oxHica1xTlFpYmlpcEp-SWJI4c_J5BgYGRh6VivxFqXmLPP0gfK4HyyuR-dybSn8g83mM_z1B4SsaKqHwzfwvovKtt6KY_1p8PYr5tUG8ED4AQ3o4hA"
+    },
+    {
+      "query": "lotta",
+      "start_timestamp": 1774126200,
+      "end_timestamp": 1774138800,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=lotta&tz=420",
+      "news_page_token": "Om992Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu7LL5sXpeYt8vSD8rdZvILwAdaZExE",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Om992Hica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu7LL5sXpeYt8vSD8rdZvILwAdaZExE"
+    },
+    {
+      "query": "from series",
+      "start_timestamp": 1774121400,
+      "end_timestamp": 1774133400,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=from+series&tz=420",
+      "news_page_token": "fE1NcHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7LepaLUvMWefoBAM4yDBc",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=fE1NcHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7LepaLUvMWefoBAM4yDBc"
+    },
+    {
+      "query": "max verstappen",
+      "start_timestamp": 1774129800,
+      "end_timestamp": 1774133400,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 300,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=max+verstappen&tz=420",
+      "news_page_token": "RhIbDHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu6HMpsXpeYt8vSD8Hk02iWR-dyvq8RQ-ALb_yLzOeqF1SF8AJiTIb8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=RhIbDHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu6HMpsXpeYt8vSD8Hk02iWR-dyvq8RQ-ALb_yLzOeqF1SF8AJiTIb8"
+    },
+    {
+      "query": "anne hathaway",
+      "start_timestamp": 1774123800,
+      "end_timestamp": 1774129800,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=anne+hathaway&tz=420",
+      "news_page_token": "k3s1Jnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh7tKtdFqXmLQoMhfO5D11VQ-H8f2KDw9y96j8zn8uLchcznkRG_iqK-ZVkQhA8A60wupA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=k3s1Jnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRh7tKtdFqXmLQoMhfO5D11VQ-H8f2KDw9y96j8zn8uLchcznkRG_iqK-ZVkQhA8A60wupA"
+    },
+    {
+      "query": "aaj ka panchang in hindi 2026 today",
+      "start_timestamp": 1774119000,
+      "end_timestamp": 1774123200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=aaj+ka+panchang+in+hindi+2026+today&tz=420",
+      "news_page_token": "9iPz73ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh7lX_8WpeYt8vSD8vU-30Lmc7-5oAvhAwA0VRkY",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=9iPz73ica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh7lX_8WpeYt8vSD8vU-30Lmc7-5oAvhAwA0VRkY"
+    },
+    {
+      "query": "prashant tamang",
+      "start_timestamp": 1774128000,
+      "end_timestamp": 1774146000,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=prashant+tamang&tz=420",
+      "news_page_token": "Ea7N3Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh72XWsWpeYt8vSD8Ll7GC6g8pccQebzcPwXhvABsJ4dDQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Ea7N3Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh72XWsWpeYt8vSD8Ll7GC6g8pccQebzcPwXhvABsJ4dDQ"
+    },
+    {
+      "query": "kurtis campbell",
+      "start_timestamp": 1774126800,
+      "end_timestamp": 1774129200,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 400,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=kurtis+campbell&tz=420",
+      "news_page_token": "yBCU8Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu79748uSs1b5OkHANdaDVA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=yBCU8Xica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu79748uSs1b5OkHANdaDVA"
+    },
+    {
+      "query": "raazi",
+      "start_timestamp": 1774123800,
+      "end_timestamp": 1774129200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "trend_breakdown": [
+        "dhurandhar the revenge ott"
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=raazi&tz=420",
+      "news_page_token": "h2jfe3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu6Umy2LUvMWhQaj8j39oPymm29Q-PmzyyF8AOFJHo8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=h2jfe3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu6Umy2LUvMWhQaj8j39oPymm29Q-PmzyyF8AOFJHo8"
+    },
+    {
+      "query": "गूगल",
+      "start_timestamp": 1774149000,
+      "end_timestamp": 1774150800,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 18,
+          "name": "Technology"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%97%E0%A5%82%E0%A4%97%E0%A4%B2&tz=420",
+      "news_page_token": "fM_1gnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu7yG1MXZWQu8vSD8kt6lZD5PBa9SSjyG_8EoPCtOZlR-IeMclH060-IRuErhWqjqL9ywQ6FX3yJB8IHAGCtPJM",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=fM_1gnica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu7yG1MXZWQu8vSD8kt6lZD5PBa9SSjyG_8EoPCtOZlR-IeMclH060-IRuErhWqjqL9ywQ6FX3yJB8IHAGCtPJM"
+    },
+    {
+      "query": "bp",
+      "start_timestamp": 1774131000,
+      "end_timestamp": 1774138800,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 10,
+          "name": "Law and Government"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=bp&tz=420",
+      "news_page_token": "1EumC3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRh7DJQaLUvMWefpB-aaruZH53H13PVH4lxqUUfiPiz-g6GefroLClzFIQuFLG0dA-ABbSDEi",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=1EumC3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRh7DJQaLUvMWefpB-aaruZH53H13PVH4lxqUUfiPiz-g6GefroLClzFIQuFLG0dA-ABbSDEi"
+    },
+    {
+      "query": "हिंदी",
+      "start_timestamp": 1774138200,
+      "end_timestamp": 1774143000,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80&tz=420",
+      "news_page_token": "TA4gUnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu4bG34uyshc5OkH4XPeuLEImc-j0u6HIl_KxoMir6N5A4Vv-DMdmc9dLt8N4QMAAmEtrg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=TA4gUnica1xTlFpYmlpcEp-SWJI4ffJ5BgYGRu4bG34uyshc5OkH4XPeuLEImc-j0u6HIl_KxoMir6N5A4Vv-DMdmc9dLt8N4QMAAmEtrg"
+    },
+    {
+      "query": "see video",
+      "start_timestamp": 1774137600,
+      "end_timestamp": 1774141200,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        },
+        {
+          "id": 19,
+          "name": "Travel and Transportation"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=see+video&tz=420",
+      "news_page_token": "d00CtHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm7vawcXpeYt8vQDANJiDL8",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=d00CtHica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm7vawcXpeYt8vQDANJiDL8"
+    },
+    {
+      "query": "cx",
+      "start_timestamp": 1774125000,
+      "end_timestamp": 1774138800,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Autos and Vehicles"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=cx&tz=420",
+      "news_page_token": "Aa4twXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRm4j47BFqXmLQoMhfB5Tlu0ofI3Kl8h87o-da1Dk1QJbUeTPzrVG5rM9fsSBzOcqi_eC8AF1fjMV",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Aa4twXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRm4j47BFqXmLQoMhfB5Tlu0ofI3Kl8h87o-da1Dk1QJbUeTPzrVG5rM9fsSBzOcqi_eC8AF1fjMV"
+    },
+    {
+      "query": "vijay jana nayagan",
+      "start_timestamp": 1774123800,
+      "end_timestamp": 1774128000,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=vijay+jana+nayagan&tz=420",
+      "news_page_token": "O1cljXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRq4zDw0XpeYt8vSD8tMcIpD53Pdr25H5PEaPt6HwjZcZQfgAxFAi5g",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=O1cljXica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRq4zDw0XpeYt8vSD8tMcIpD53Pdr25H5PEaPt6HwjZcZQfgAxFAi5g"
+    },
+    {
+      "query": "openclaw",
+      "start_timestamp": 1774126200,
+      "end_timestamp": 1774131600,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=openclaw&tz=420",
+      "news_page_token": "IRxWA3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu47Yu2LUvMWefpB-FwPIzmQ-dynFDNR-Hv-yKCof7f0HYr85zcxyHyOtsgeFP6ZrfUQPgATeDWq",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=IRxWA3ica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu47Yu2LUvMWefpB-FwPIzmQ-dynFDNR-Hv-yKCof7f0HYr85zcxyHyOtsgeFP6ZrfUQPgATeDWq"
+    },
+    {
+      "query": "liga portugal",
+      "start_timestamp": 1774122600,
+      "end_timestamp": 1774123800,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 400,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=liga+portugal&tz=420",
+      "news_page_token": "zGA0k3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu6Mc-KLCkoWefpB-eEJB5D5PHqlrCh8nbWuKOr3zvJEkVefcxpFXmNVPwrfNmoDCj8jeRoK__q9NggfAHumPos",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=zGA0k3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRu6Mc-KLCkoWefpB-eEJB5D5PHqlrCh8nbWuKOr3zvJEkVefcxpFXmNVPwrfNmoDCj8jeRoK__q9NggfAHumPos"
+    },
+    {
+      "query": "क्या आज बारिश होगी?",
+      "start_timestamp": 1774140600,
+      "end_timestamp": 1774143000,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 100,
+      "categories": [
+        {
+          "id": 20,
+          "name": "Climate"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE+%E0%A4%86%E0%A4%9C+%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%B6+%E0%A4%B9%E0%A5%8B%E0%A4%97%E0%A5%80%3F&tz=420",
+      "news_page_token": "4VIn7Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRq6TEhcXZWQu8vSD8pW0lZD53PmBVSjyvvf6IHwAjYgcPQ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=4VIn7Xica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRq6TEhcXZWQu8vSD8pW0lZD53PmBVSjyvvf6IHwAjYgcPQ"
+    },
+    {
+      "query": "टाटा हैरियर",
+      "start_timestamp": 1774104600,
+      "end_timestamp": 1774108200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Autos and Vehicles"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=%E0%A4%9F%E0%A4%BE%E0%A4%9F%E0%A4%BE+%E0%A4%B9%E0%A5%88%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%B0&tz=420",
+      "news_page_token": "lt_vj3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh755cGLMjIXefpB-WrM4ch8bi3tPSh8bsVmCB8AYkcahw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=lt_vj3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh755cGLMjIXefpB-WrM4ch8bi3tPSh8bsVmCB8AYkcahw"
+    },
+    {
+      "query": "chandraghanta mata aarti",
+      "start_timestamp": 1774147200,
+      "end_timestamp": 1774149000,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 11,
+          "name": "Other"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=chandraghanta+mata+aarti&tz=420",
+      "news_page_token": "MhZ5Lnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh5WDotFqXmLPP0AxccLIw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=MhZ5Lnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRh5WDotFqXmLPP0AxccLIw"
+    },
+    {
+      "query": "crimson desert game",
+      "start_timestamp": 1774107000,
+      "end_timestamp": 1774110600,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Games"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=crimson+desert+game&tz=420",
+      "news_page_token": "nlRm03ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRm5tK9NFqXmLQoMhfB7ONTuQ-dxTb_eh8H_WCqLwf8y8hqJfuPQ-Cp8_7xKKevGwElTzThyC8AE7lDpu",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=nlRm03ica1xTlFpYmlpcEp-SWJI4c_J5BgYGRm5tK9NFqXmLQoMhfB7ONTuQ-dxTb_eh8H_WCqLwf8y8hqJfuPQ-Cp8_7xKKevGwElTzThyC8AE7lDpu"
+    },
+    {
+      "query": "racing vs albacete",
+      "start_timestamp": 1774107600,
+      "end_timestamp": 1774110600,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=racing+vs+albacete&tz=420",
+      "news_page_token": "lTIk5nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7zkuWLUosXefoBAM8sDEE",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=lTIk5nica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRu7zkuWLUosXefoBAM8sDEE"
+    },
+    {
+      "query": "bf bf",
+      "start_timestamp": 1774134600,
+      "end_timestamp": 1774143000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=bf+bf&tz=420",
+      "news_page_token": "o6rtQHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu7Pb50XpeYt8vSD8if7f0Lm88hNe4UiP5f5Iwp_thE_hA8A9KEjVA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=o6rtQHica1xTlFpYmlpcEp-SWJI4dfJ5BgYGRu7Pb50XpeYt8vSD8if7f0Lm88hNe4UiP5f5Iwp_thE_hA8A9KEjVA"
+    },
+    {
+      "query": "o romeo movie",
+      "start_timestamp": 1774108800,
+      "end_timestamp": 1774111200,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=o+romeo+movie&tz=420",
+      "news_page_token": "azUfxnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm4f4SeLUvMWhQYDAM1lDDE",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=azUfxnica1xTlFpYmlpcEp-SWJI4cfJ5BgYGRm4f4SeLUvMWhQYDAM1lDDE"
+    },
+    {
+      "query": "imdb",
+      "start_timestamp": 1774128600,
+      "end_timestamp": 1774131600,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=imdb&tz=420",
+      "news_page_token": "NTGqdHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh7Jwn-LUvMWhQZD-NyfGr-i8A8bofDZ-O2_Q_gA5pAekw",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=NTGqdHica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRh7Jwn-LUvMWhQZD-NyfGr-i8A8bofDZ-O2_Q_gA5pAekw"
+    },
+    {
+      "query": "aishwarya rai",
+      "start_timestamp": 1774123200,
+      "end_timestamp": 1774125600,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=aishwarya+rai&tz=420",
+      "news_page_token": "vmenKXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu4HodMXpeYt8vSD8qewHUfh39uVhcL_8LcQhe-_ugiZzyOQsApF_lN9BYo8U18HhA8AQt80vg",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=vmenKXica1xTlFpYmlpcEp-SWJI4Y_J5BgYGRu4HodMXpeYt8vSD8qewHUfh39uVhcL_8LcQhe-_ugiZzyOQsApF_lN9BYo8U18HhA8AQt80vg"
+    },
+    {
+      "query": "petrol diesel price today",
+      "start_timestamp": 1774147800,
+      "end_timestamp": 1774149000,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 3,
+          "name": "Business and Finance"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=petrol+diesel+price+today&tz=420",
+      "news_page_token": "UdoT-nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu6dTp2LUvMWefpB-bfWHULmc7l_mgjhAwAjpRiu",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=UdoT-nica1xTlFpYmlpcEp-SWJI4efJ5BgYGRu6dTp2LUvMWefpB-bfWHULmc7l_mgjhAwAjpRiu"
+    },
+    {
+      "query": "iliman ndiaye",
+      "start_timestamp": 1774123800,
+      "end_timestamp": 1774126200,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=iliman+ndiaye&tz=420",
+      "news_page_token": "Ls3qenica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7uM_KL0ooWefpB-DxSKveR-dzykkEo_E3vPSF8AJBxHFA",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=Ls3qenica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRu7uM_KL0ooWefpB-DxSKveR-dzykkEo_E3vPSF8AJBxHFA"
+    },
+    {
+      "query": "sex and the city",
+      "start_timestamp": 1774135800,
+      "end_timestamp": 1774137600,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=sex+and+the+city&tz=420",
+      "news_page_token": "9mQkkXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh7NVstFqXmLQoMhfO7LEndR-O-VuiF8AAGEF5Y",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=9mQkkXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRh7NVstFqXmLQoMhfO7LEndR-O-VuiF8AAGEF5Y"
+    },
+    {
+      "query": "bayern munich vs union berlin standings",
+      "start_timestamp": 1774113000,
+      "end_timestamp": 1774114800,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 17,
+          "name": "Sports"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=bayern+munich+vs+union+berlin+standings&tz=420",
+      "news_page_token": "tEQdEnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu5Dr_IXpeYtCg2G8iemvoXwAdS2Exo",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=tEQdEnica1xTlFpYmlpcEp-SWJI4afJ5BgYGRu5Dr_IXpeYtCg2G8iemvoXwAdS2Exo"
+    },
+    {
+      "query": "rajasthan",
+      "start_timestamp": 1774143600,
+      "end_timestamp": 1774144800,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 75,
+      "categories": [
+        {
+          "id": 9,
+          "name": "Jobs and Education"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=rajasthan&tz=420",
+      "news_page_token": "JRlWG3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRq4OdolFqXmLPP2gfJ8DxSh8roQ4ZD73yWw5FP4E8Q3IfB4Lp1YUvmlRDgrfZHYAiv7Xy7aiyAsoVUH4AL1oO50",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=JRlWG3ica1xTlFpYmlpcEp-SWJI4a_J5BgYGRq4OdolFqXmLPP2gfJ8DxSh8roQ4ZD73yWw5FP4E8Q3IfB4Lp1YUvmlRDgrfZHYAiv7Xy7aiyAsoVUH4AL1oO50"
+    },
+    {
+      "query": "akshay kumar",
+      "start_timestamp": 1774111800,
+      "end_timestamp": 1774113000,
+      "active": false,
+      "search_volume": 200,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=akshay+kumar&tz=420",
+      "news_page_token": "YBMBFHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRh72hBWLUvMWefpB-NyX8luQ-TzszFYofNmsByjqlzFKofA_NX5F4ee1ySDzuSp-zEORXxVtiWqf2QcIHwAuiz0W",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=YBMBFHica1xTlFpYmlpcEp-SWJI4a_J5BgYGRh72hBWLUvMWefpB-NyX8luQ-TzszFYofNmsByjqlzFKofA_NX5F4ee1ySDzuSp-zEORXxVtiWqf2QcIHwAuiz0W"
+    },
+    {
+      "query": "f1 movie",
+      "start_timestamp": 1774130400,
+      "end_timestamp": 1774132200,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=f1+movie&tz=420",
+      "news_page_token": "pFqrx3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRq7dinsWpeYt8vSD8Nkd9gsi87nlta4g8znWph2F8AGfNxzJ",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=pFqrx3ica1xTlFpYmlpcEp-SWJI4ZfJ5BgYGRq7dinsWpeYt8vSD8Nkd9gsi87nlta4g8znWph2F8AGfNxzJ"
+    },
+    {
+      "query": "kriti sanon",
+      "start_timestamp": 1774124400,
+      "end_timestamp": 1774125600,
+      "active": false,
+      "search_volume": 100,
+      "increase_percentage": 50,
+      "categories": [
+        {
+          "id": 4,
+          "name": "Entertainment"
+        }
+      ],
+      "serpapi_google_trends_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=IN&hl=en&q=kriti+sanon&tz=420",
+      "news_page_token": "yHlDYXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRm6vNfMXpeYt8vSD8k8obUfm85gYPoXwARGWF5g",
+      "serpapi_news_link": "https://serpapi.com/search.json?engine=google_trends_news&page_token=yHlDYXica1xTlFpYmlpcEp-SWJI4efJ5BgYGRm6vNfMXpeYt8vSD8k8obUfm85gYPoXwARGWF5g"
+    }
+  ]
+}
